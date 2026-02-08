@@ -1,16 +1,54 @@
 {
-  "lastUpdated": "2026-02-08",
-  "cars": [
+  "items": [
     {
-      "id": "tesla-model-3-2024",
-      "make": "Tesla",
-      "model": "Model 3",
-      "year": 2024,
-      "priceText": "$38,990+",
-      "highlights": ["EV", "Fast charging", "ADAS"],
-      "imageUrl": null,
-      "sourceUrl": "https://www.tesla.com/model3",
-      "summary": "Tesla’s compact sedan with strong range and performance options."
+      "Title": "2026 Maruti Swift spotted testing with new front design",
+      "info": "CarWale",
+      "time": "2h ago"
+    },
+    {
+      "Title": "New EV policy announced: incentives expanded for local manufacturing",
+      "info": "AutoCar India",
+      "time": "4h ago"
+    },
+    {
+      "Title": "Tata Nexon EV gets a new long-range variant (rumoured)",
+      "info": "ZigWheels",
+      "time": "7h ago"
+    },
+    {
+      "Title": "Toyota teases next-gen Fortuner: what to expect",
+      "info": "CarDekho",
+      "time": "Yesterday"
+    },
+    {
+      "Title": "Hyundai launches new safety tech package across top trims",
+      "info": "MotorBeam",
+      "time": "Yesterday"
+    },
+    {
+      "Title": "Top 5 cars under ₹10 lakh with best mileage (2026 guide)",
+      "info": "Team-BHP",
+      "time": "2d ago"
+    },
+    {
+      "Title": "F1: Driver wins season opener after late safety car drama",
+      "info": "Motorsport",
+      "time": "3d ago"
+    },
+    {
+      "Title": "Tesla updates Autopilot software: what changed (overview)",
+      "info": "Electrek",
+      "time": "4d ago"
+    },
+    {
+      "Title": "BMW iX facelift: expected range and features",
+      "info": "TopGear",
+      "time": "5d ago"
+    },
+    {
+      "Title": "Used car prices cool down slightly in major cities (trend)",
+      "info": "Economic Times Auto",
+      "time": "1w ago"
     }
   ]
 }
