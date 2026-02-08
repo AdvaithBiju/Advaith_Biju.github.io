@@ -1,0 +1,16 @@
+{
+  "lastUpdated": "2026-02-08",
+  "cars": [
+    {
+      "id": "tesla-model-3-2024",
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": 2024,
+      "priceText": "$38,990+",
+      "highlights": ["EV", "Fast charging", "ADAS"],
+      "imageUrl": null,
+      "sourceUrl": "https://www.tesla.com/model3",
+      "summary": "Tesla’s compact sedan with strong range and performance options."
+    }
+  ]
+}
