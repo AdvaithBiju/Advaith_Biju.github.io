@@ -4,71 +4,71 @@
       "Title": "BMW M3 GTR GT,E46",
       "info": "BMW “GTR GT” (M3 GTR, E46)\nBMW M Motorsport built this 2001 M3 GTR for the American Le Mans Series (ALMS) — and it instantly became a GT-class monster. In 10 races it won 7 times, and Jörg Müller took the GT drivers’ title; BMW also won team + manufacturer championships. The same car later became a cult icon in Need for Speed: Most Wanted (2005) thanks to its silver-blue livery and V8 soundtrack.\nPower: ~450 hp • Weight: 1,100 kg • Top speed: ~260 km/h",
       "time": "",
-      "modelUrl": "https://advaithbiju.github.io/Advaith_Biju.github.io/models/bmw_m3_gtr_-_nfs_mw.glb",
       "imageUrl": "https://advaithbiju.github.io/Advaith_Biju.github.io/models/bmw_m3.png",
-      "vehicleInfo": "Put your car/vehicle info here..."
-
-
-      "overview": "BMW M Motorsport built this 2001 M3 GTR for the American Le Mans Series (ALMS) — and it instantly became a GT-class monster. In 10 races it won 7 times, and Jörg Müller took the GT drivers’ title; BMW also won team + manufacturer championships. The same car later became a cult icon in Need for Speed: Most Wanted (2005) thanks to its silver-blue livery and V8 soundtrack.",
-
-      "specs": {
-        "power": "~450 hp",
-        "weight": "1,100 kg",
-        "topSpeed": "~260 km/h"
-      },
-
-      "raceHistory": [
-        "American Le Mans Series (ALMS), 2001",
-        "Won 7 out of 10 races",
-        "Jörg Müller won the GT drivers’ title",
-        "BMW won team + manufacturer championships"
-      ]
+      "vehicleInfo": "Engine: 4.0L V8 (race-spec)\nPower: ~450 hp\nWeight: ~1,100 kg\nTop speed: ~260 km/h\nRacing: American Le Mans Series (ALMS) 2001\nHighlights: Won 7/10 races; Jörg Müller GT title; BMW team + manufacturer titles\nPop culture: Need for Speed: Most Wanted (2005) icon"
     },
-
     {
       "Title": "New EV policy announced: incentives expanded for local manufacturing",
       "info": "AutoCar India",
-      "time": "4h ago"
+      "time": "4h ago",
+      "imageUrl": null,
+      "vehicleInfo": null
     },
     {
       "Title": "Tata Nexon EV gets a new long-range variant (rumoured)",
       "info": "ZigWheels",
-      "time": "7h ago"
+      "time": "7h ago",
+      "imageUrl": null,
+      "vehicleInfo": null
     },
     {
       "Title": "Toyota teases next-gen Fortuner: what to expect",
       "info": "CarDekho",
-      "time": "Yesterday"
+      "time": "Yesterday",
+      "imageUrl": null,
+      "vehicleInfo": null
     },
     {
       "Title": "Hyundai launches new safety tech package across top trims",
       "info": "MotorBeam",
-      "time": "Yesterday"
+      "time": "Yesterday",
+      "imageUrl": null,
+      "vehicleInfo": null
     },
     {
       "Title": "Top 5 cars under ₹10 lakh with best mileage (2026 guide)",
       "info": "Team-BHP",
-      "time": "2d ago"
+      "time": "2d ago",
+      "imageUrl": null,
+      "vehicleInfo": null
     },
     {
       "Title": "F1: Driver wins season opener after late safety car drama",
       "info": "Motorsport",
-      "time": "3d ago"
+      "time": "3d ago",
+      "imageUrl": null,
+      "vehicleInfo": null
     },
     {
       "Title": "Tesla updates Autopilot software: what changed (overview)",
       "info": "Electrek",
-      "time": "4d ago"
+      "time": "4d ago",
+      "imageUrl": null,
+      "vehicleInfo": null
     },
     {
       "Title": "BMW iX facelift: expected range and features",
       "info": "TopGear",
-      "time": "5d ago"
+      "time": "5d ago",
+      "imageUrl": null,
+      "vehicleInfo": null
     },
     {
       "Title": "last page changed",
       "info": "Economic Times Auto",
-      "time": "1w ago"
+      "time": "1w ago",
+      "imageUrl": null,
+      "vehicleInfo": null
     }
   ]
 }
