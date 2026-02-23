@@ -1,71 +1,81 @@
 {
   "items": [
     {
-      "Title": "BMW M3 GTR GT,E46",
-      "info": "BMW “GTR GT” (M3 GTR, E46)\nBMW M Motorsport built this 2001 M3 GTR for the American Le Mans Series (ALMS) — and it instantly became a GT-class monster. In 10 races it won 7 times, and Jörg Müller took the GT drivers’ title; BMW also won team + manufacturer championships. The same car later became a cult icon in Need for Speed: Most Wanted (2005) thanks to its silver-blue livery and V8 soundtrack.\nPower: ~450 hp • Weight: 1,100 kg • Top speed: ~260 km/h",
-      "time": "",
+      "title": "BMW M3 GTR GT, E46",
+      "summary": "BMW M Motorsport built this 2001 M3 GTR for the American Le Mans Series (ALMS) — and it instantly became a GT-class monster. In 10 races it won 7 times, and Jörg Müller took the GT drivers’ title; BMW also won team and manufacturer championships. The same car later became a cult icon in Need for Speed: Most Wanted (2005) thanks to its silver-blue livery and V8 soundtrack.",
+      "source": "BMW",
+      "time": "Classic",
       "imageUrl": "https://advaithbiju.github.io/Advaith_Biju.github.io/models/bmw_m3.png",
       "vehicleInfo": "Engine: 4.0L V8 (race-spec)\nPower: ~450 hp\nWeight: ~1,100 kg\nTop speed: ~260 km/h\nRacing: American Le Mans Series (ALMS) 2001\nHighlights: Won 7/10 races; Jörg Müller GT title; BMW team + manufacturer titles\nPop culture: Need for Speed: Most Wanted (2005) icon"
     },
     {
-      "Title": "New EV policy announced: incentives expanded for local manufacturing",
-      "info": "AutoCar India",
+      "title": "New EV policy announced: incentives expanded for local manufacturing",
+      "summary": "Government incentives for EV manufacturing are expected to support local production, supply chains, and battery ecosystem growth.",
+      "source": "AutoCar India",
       "time": "4h ago",
       "imageUrl": null,
       "vehicleInfo": null
     },
     {
-      "Title": "Tata Nexon EV gets a new long-range variant (rumoured)",
-      "info": "ZigWheels",
+      "title": "Tata Nexon EV gets a new long-range variant (rumoured)",
+      "summary": "Reports suggest Tata may introduce a longer-range Nexon EV variant with feature upgrades and revised battery tuning.",
+      "source": "ZigWheels",
       "time": "7h ago",
       "imageUrl": null,
       "vehicleInfo": null
     },
     {
-      "Title": "Toyota teases next-gen Fortuner: what to expect",
-      "info": "CarDekho",
+      "title": "Toyota teases next-gen Fortuner: what to expect",
+      "summary": "Toyota has teased the next-generation Fortuner, with expected updates in design, features, and powertrain options.",
+      "source": "CarDekho",
       "time": "Yesterday",
       "imageUrl": null,
       "vehicleInfo": null
     },
     {
-      "Title": "Hyundai launches new safety tech package across top trims",
-      "info": "MotorBeam",
+      "title": "Hyundai launches new safety tech package across top trims",
+      "summary": "Hyundai is adding an upgraded safety technology pack across higher variants, expanding advanced driver-assistance features.",
+      "source": "MotorBeam",
       "time": "Yesterday",
       "imageUrl": null,
       "vehicleInfo": null
     },
     {
-      "Title": "Top 5 cars under ₹10 lakh with best mileage (2026 guide)",
-      "info": "Team-BHP",
+      "title": "Top 5 cars under ₹10 lakh with best mileage (2026 guide)",
+      "summary": "A budget-focused roundup of fuel-efficient cars under ₹10 lakh, comparing mileage, features, and everyday usability.",
+      "source": "Team-BHP",
       "time": "2d ago",
       "imageUrl": null,
       "vehicleInfo": null
     },
     {
-      "Title": "F1: Driver wins season opener after late safety car drama",
-      "info": "Motorsport",
+      "title": "F1: Driver wins season opener after late safety car drama",
+      "summary": "A dramatic late safety car reshuffled the race before the winner sealed victory in the season-opening Formula 1 event.",
+      "source": "Motorsport",
       "time": "3d ago",
       "imageUrl": null,
       "vehicleInfo": null
     },
     {
-      "Title": "Tesla updates Autopilot software: what changed (overview)",
-      "info": "Electrek",
+      "title": "Tesla updates Autopilot software: what changed (overview)",
+      "summary": "Tesla has rolled out an Autopilot software update with changes to behavior, interface prompts, and system responsiveness.",
+      "source": "Electrek",
       "time": "4d ago",
       "imageUrl": null,
       "vehicleInfo": null
     },
     {
-      "Title": "BMW iX facelift: expected range and features",
-      "info": "TopGear",
+      "title": "BMW iX facelift: expected range and features",
+      "summary": "The refreshed BMW iX is expected to bring updated design cues, range improvements, and new cabin technology.",
+      "source": "TopGear",
       "time": "5d ago",
       "imageUrl": null,
       "vehicleInfo": null
     },
     {
-      "Title": "last page changed",
-      "info": "Economic Times Auto",
+      "title": "Last page changed",
+      "summary": "Update placeholder entry for testing feed behavior and page changes.",
+      "source": "Economic Times Auto",
       "time": "1w ago",
       "imageUrl": null,
       "vehicleInfo": null
