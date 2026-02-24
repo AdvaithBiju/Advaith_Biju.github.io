@@ -1,84 +1,114 @@
 {
   "items": [
     {
+      "id": "auto_001",
+      "category": "auto",
       "title": "BMW M3 GTR GT, E46",
-      "summary": "BMW M Motorsport built this 2001 M3 GTR for the American Le Mans Series (ALMS) — and it instantly became a GT-class monster. In 10 races it won 7 times, and Jörg Müller took the GT drivers’ title; BMW also won team and manufacturer championships. The same car later became a cult icon in Need for Speed: Most Wanted (2005) thanks to its silver-blue livery and V8 soundtrack.",
-      "source": "BMW",
+      "summary": "BMW M Motorsport built this 2001 M3 GTR for the American Le Mans Series (ALMS), where it became a dominant GT-class race car. It won 7 of 10 races, and later became a cult icon through Need for Speed: Most Wanted (2005).",
+      "sourceName": "BMW",
+      "sourceType": "official",
       "time": "Classic",
       "imageUrl": "https://advaithbiju.github.io/Advaith_Biju.github.io/models/bmw_m3.png",
-      "vehicleInfo": "Engine: 4.0L V8 (race-spec)\nPower: ~450 hp\nWeight: ~1,100 kg\nTop speed: ~260 km/h\nRacing: American Le Mans Series (ALMS) 2001\nHighlights: Won 7/10 races; Jörg Müller GT title; BMW team + manufacturer titles\nPop culture: Need for Speed: Most Wanted (2005) icon"
+      "sourceUrl": "https://www.bmw-m.com"
     },
     {
+      "id": "auto_002",
+      "category": "auto",
       "title": "New EV policy announced: incentives expanded for local manufacturing",
       "summary": "Government incentives for EV manufacturing are expected to support local production, supply chains, and battery ecosystem growth.",
-      "source": "AutoCar India",
+      "sourceName": "Autocar India",
+      "sourceType": "verified",
       "time": "4h ago",
       "imageUrl": null,
-      "vehicleInfo": null
+      "sourceUrl": "https://www.autocarindia.com"
     },
     {
+      "id": "auto_003",
+      "category": "auto",
       "title": "Tata Nexon EV gets a new long-range variant (rumoured)",
       "summary": "Reports suggest Tata may introduce a longer-range Nexon EV variant with feature upgrades and revised battery tuning.",
-      "source": "ZigWheels",
+      "sourceName": "ZigWheels",
+      "sourceType": "developing",
       "time": "7h ago",
       "imageUrl": null,
-      "vehicleInfo": null
+      "sourceUrl": "https://www.zigwheels.com"
     },
     {
+      "id": "auto_004",
+      "category": "auto",
       "title": "Toyota teases next-gen Fortuner: what to expect",
       "summary": "Toyota has teased the next-generation Fortuner, with expected updates in design, features, and powertrain options.",
-      "source": "CarDekho",
+      "sourceName": "CarDekho",
+      "sourceType": "verified",
       "time": "Yesterday",
       "imageUrl": null,
-      "vehicleInfo": null
+      "sourceUrl": "https://www.cardekho.com"
     },
     {
+      "id": "auto_005",
+      "category": "auto",
       "title": "Hyundai launches new safety tech package across top trims",
       "summary": "Hyundai is adding an upgraded safety technology pack across higher variants, expanding advanced driver-assistance features.",
-      "source": "MotorBeam",
+      "sourceName": "MotorBeam",
+      "sourceType": "verified",
       "time": "Yesterday",
       "imageUrl": null,
-      "vehicleInfo": null
+      "sourceUrl": "https://www.motorbeam.com"
     },
     {
+      "id": "auto_006",
+      "category": "auto",
       "title": "Top 5 cars under ₹10 lakh with best mileage (2026 guide)",
       "summary": "A budget-focused roundup of fuel-efficient cars under ₹10 lakh, comparing mileage, features, and everyday usability.",
-      "source": "Team-BHP",
+      "sourceName": "Team-BHP",
+      "sourceType": "verified",
       "time": "2d ago",
       "imageUrl": null,
-      "vehicleInfo": null
+      "sourceUrl": "https://www.team-bhp.com"
     },
     {
+      "id": "sports_001",
+      "category": "sports",
       "title": "F1: Driver wins season opener after late safety car drama",
       "summary": "A dramatic late safety car reshuffled the race before the winner sealed victory in the season-opening Formula 1 event.",
-      "source": "Motorsport",
+      "sourceName": "Motorsport",
+      "sourceType": "verified",
       "time": "3d ago",
       "imageUrl": null,
-      "vehicleInfo": null
+      "sourceUrl": "https://www.motorsport.com"
     },
     {
-      "title": "Tesla updates Autopilot software: what changed (overview)",
+      "id": "tech_001",
+      "category": "tech",
+      "title": "Tesla updates Autopilot software: what changed",
       "summary": "Tesla has rolled out an Autopilot software update with changes to behavior, interface prompts, and system responsiveness.",
-      "source": "Electrek",
+      "sourceName": "Electrek",
+      "sourceType": "verified",
       "time": "4d ago",
       "imageUrl": null,
-      "vehicleInfo": null
+      "sourceUrl": "https://electrek.co"
     },
     {
+      "id": "auto_007",
+      "category": "auto",
       "title": "BMW iX facelift: expected range and features",
       "summary": "The refreshed BMW iX is expected to bring updated design cues, range improvements, and new cabin technology.",
-      "source": "TopGear",
+      "sourceName": "TopGear",
+      "sourceType": "verified",
       "time": "5d ago",
       "imageUrl": null,
-      "vehicleInfo": null
+      "sourceUrl": "https://www.topgear.com"
     },
     {
+      "id": "trending_001",
+      "category": "trending",
       "title": "Last page changed",
       "summary": "Update placeholder entry for testing feed behavior and page changes.",
-      "source": "Economic Times Auto",
+      "sourceName": "Economic Times Auto",
+      "sourceType": "developing",
       "time": "1w ago",
       "imageUrl": null,
-      "vehicleInfo": null
+      "sourceUrl": "https://auto.economictimes.indiatimes.com"
     }
   ]
 }
