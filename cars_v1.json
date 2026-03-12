@@ -1,114 +1,58 @@
-{
-  "items": [
-    {
-      "id": "auto_001",
-      "category": "auto",
-      "title": "BMW M3 GTR GT, E46",
-      "summary": "BMW M Motorsport built this 2001 M3 GTR for the American Le Mans Series (ALMS), where it became a dominant GT-class race car. It won 7 of 10 races, and later became a cult icon through Need for Speed: Most Wanted (2005).",
-      "sourceName": "BMW",
-      "sourceType": "official",
-      "time": "Classic",
-      "imageUrl": "https://advaithbiju.github.io/Advaith_Biju.github.io/models/bmw_m3.png",
-      "sourceUrl": "https://www.bmw-m.com"
-    },
-    {
-      "id": "auto_002",
-      "category": "auto",
-      "title": "New EV policy announced: incentives expanded for local manufacturing",
-      "summary": "Government incentives for EV manufacturing are expected to support local production, supply chains, and battery ecosystem growth.",
-      "sourceName": "Autocar India",
-      "sourceType": "verified",
-      "time": "4h ago",
-      "imageUrl": null,
-      "sourceUrl": "https://www.autocarindia.com"
-    },
-    {
-      "id": "auto_003",
-      "category": "auto",
-      "title": "Tata Nexon EV gets a new long-range variant (rumoured)",
-      "summary": "Reports suggest Tata may introduce a longer-range Nexon EV variant with feature upgrades and revised battery tuning.",
-      "sourceName": "ZigWheels",
-      "sourceType": "developing",
-      "time": "7h ago",
-      "imageUrl": null,
-      "sourceUrl": "https://www.zigwheels.com"
-    },
-    {
-      "id": "auto_004",
-      "category": "auto",
-      "title": "Toyota teases next-gen Fortuner: what to expect",
-      "summary": "Toyota has teased the next-generation Fortuner, with expected updates in design, features, and powertrain options.",
-      "sourceName": "CarDekho",
-      "sourceType": "verified",
-      "time": "Yesterday",
-      "imageUrl": null,
-      "sourceUrl": "https://www.cardekho.com"
-    },
-    {
-      "id": "auto_005",
-      "category": "auto",
-      "title": "Hyundai launches new safety tech package across top trims",
-      "summary": "Hyundai is adding an upgraded safety technology pack across higher variants, expanding advanced driver-assistance features.",
-      "sourceName": "MotorBeam",
-      "sourceType": "verified",
-      "time": "Yesterday",
-      "imageUrl": null,
-      "sourceUrl": "https://www.motorbeam.com"
-    },
-    {
-      "id": "auto_006",
-      "category": "auto",
-      "title": "Top 5 cars under ₹10 lakh with best mileage (2026 guide)",
-      "summary": "A budget-focused roundup of fuel-efficient cars under ₹10 lakh, comparing mileage, features, and everyday usability.",
-      "sourceName": "Team-BHP",
-      "sourceType": "verified",
-      "time": "2d ago",
-      "imageUrl": null,
-      "sourceUrl": "https://www.team-bhp.com"
-    },
-    {
-      "id": "sports_001",
-      "category": "sports",
-      "title": "F1: Driver wins season opener after late safety car drama",
-      "summary": "A dramatic late safety car reshuffled the race before the winner sealed victory in the season-opening Formula 1 event.",
-      "sourceName": "Motorsport",
-      "sourceType": "verified",
-      "time": "3d ago",
-      "imageUrl": "https://advaithbiju.github.io/Advaith_Biju.github.io/models/bmw_m3.png",
-      "sourceUrl": "https://www.motorsport.com"
-    },
-    {
-      "id": "tech_001",
-      "category": "tech",
-      "title": "Tesla updates Autopilot software: what changed",
-      "summary": "Tesla has rolled out an Autopilot software update with changes to behavior, interface prompts, and system responsiveness.",
-      "sourceName": "Electrek",
-      "sourceType": "verified",
-      "time": "4d ago",
-      "imageUrl": "https://advaithbiju.github.io/Advaith_Biju.github.io/models/bmw_m3.png",
-      "sourceUrl": "https://electrek.co"
-    },
-    {
-      "id": "auto_007",
-      "category": "auto",
-      "title": "BMW iX facelift: expected range and features",
-      "summary": "The refreshed BMW iX is expected to bring updated design cues, range improvements, and new cabin technology.",
-      "sourceName": "TopGear",
-      "sourceType": "verified",
-      "time": "5d ago",
-      "imageUrl": null,
-      "sourceUrl": "https://www.topgear.com"
-    },
-    {
-      "id": "trending_001",
-      "category": "trending",
-      "title": "Last page changed",
-      "summary": "Update placeholder entry for testing feed behavior and page changes.",
-      "sourceName": "Economic Times Auto",
-      "sourceType": "developing",
-      "time": "1w ago",
-      "imageUrl":"https://advaithbiju.github.io/Advaith_Biju.github.io/models/bmw_m3.png",
-      "sourceUrl": "https://auto.economictimes.indiatimes.com"
-    }
-  ]
-}
+[
+  {
+    "id": "auto-001",
+    "title": "China may soon ban steering yokes and require physical buttons for key car functions",
+    "summary": "A Reddit post in r/cars highlights a report that China may move toward stricter in-car safety and usability rules, including limits on steering yokes and a requirement for physical controls for important functions.",
+    "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/02/Tesala-screen-Feb13261-1024x576.jpg",
+    "category": "auto",
+    "source": "Reddit / r/cars",
+    "sourceUrl": "https://www.reddit.com/r/cars/comments/1r53vhb/china_may_soon_ban_steering_yokes_mandate/",
+    "publishedAt": "2026-03-12T12:00:00Z",
+    "verified": true
+  },
+  {
+    "id": "auto-002",
+    "title": "Americans are driving a major minivan sales surge",
+    "summary": "A trending r/cars discussion points to renewed demand for minivans in the U.S., suggesting that practical family vehicles are seeing stronger interest again despite years of image problems.",
+    "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/02/Chrysler-Pacifica-Minivan-Feb14261-1024x576.jpg",
+    "category": "auto",
+    "source": "Reddit / r/cars",
+    "sourceUrl": "https://www.reddit.com/r/cars/comments/1r5lxus/they_mocked_minivans_for_years_now_americans_are/",
+    "publishedAt": "2026-03-12T12:05:00Z",
+    "verified": true
+  },
+  {
+    "id": "auto-003",
+    "title": "New U.S. car prices have surged as automakers focus on high-end models",
+    "summary": "A post shared in r/cars says new car prices in the U.S. have risen sharply as manufacturers continue emphasizing more expensive, higher-margin vehicles.",
+    "imageUrl": "",
+    "category": "auto",
+    "source": "Reddit / r/cars",
+    "sourceUrl": "https://www.reddit.com/r/cars/comments/1rr5h59/prices_for_new_us_cars_have_soared_as_automakers/",
+    "publishedAt": "2026-03-12T12:10:00Z",
+    "verified": true
+  },
+  {
+    "id": "auto-004",
+    "title": "Tesla remains California's best-selling car model in 2025 despite anti-Musk protests",
+    "summary": "An r/cars post reports that Tesla is still the top-selling car model in California for 2025 by a large margin, even amid protests and criticism surrounding Elon Musk.",
+    "imageUrl": "",
+    "category": "auto",
+    "source": "Reddit / r/cars",
+    "sourceUrl": "https://www.reddit.com/r/cars/comments/1r2w5o6/despite_antimusk_protests_tesla_remains/",
+    "publishedAt": "2026-03-12T12:15:00Z",
+    "verified": true
+  },
+  {
+    "id": "auto-005",
+    "title": "Supreme Court strikes down tariffs on foreign cars and parts",
+    "summary": "A Reddit discussion in r/cars covers a report that tariffs on foreign cars and auto parts were struck down by the Supreme Court, a move that could affect pricing and imports.",
+    "imageUrl": "",
+    "category": "auto",
+    "source": "Reddit / r/cars",
+    "sourceUrl": "https://www.reddit.com/r/cars/comments/1ra0emk/tariffs_on_foreign_cars_and_parts_struck_down_by/",
+    "publishedAt": "2026-03-12T12:20:00Z",
+    "verified": true
+  },
+  ...
+]
