@@ -1,5 +1,16 @@
 [
   {
+    "id": "article_1",
+    "category": "trending",
+    "title": "Test Article",
+    "summary": "Testing image upload",
+    "sourceName": "Test",
+    "sourceType": "social",
+    "time": "2026-04-08T01:05:18.353831",
+    "imageUrl": "https://advaithbiju.github.io/assets/news-images/img_6a4f325572_test_article.jpg",
+    "sourceUrl": "https://example.com"
+  },
+  {
     "id": "article_article_239",
     "category": "tech",
     "title": "Bitcoin Poker No Deposit Bonus 2026: BC Poker Offers $5 Free With No Cashout Cap, BC Shield Anti-Cheat Protection, and Instant Crypto Withdrawals",
