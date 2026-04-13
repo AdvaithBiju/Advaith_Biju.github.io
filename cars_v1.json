@@ -1,5 +1,38 @@
 [
   {
+    "id": "article_601",
+    "category": "tech",
+    "title": "US summons bank bosses over cyber risks from Anthropic\u2019s latest AI model",
+    "summary": "US summons bank bosses over cyber risks from Anthropic\u2019s latest AI model. <p>Fed chair Jerome Powell reportedly attends meeting in Washington following release of Claude Mythos</p><p>The US Treasury secretary, Scott Bessent, summoned major American bank chiefs to a meeting in Washington this week amid concerns over the cyber risks posed by Anthropic\u2019s latest AI model, acc This story matters in the tech lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "The Guardian Tech",
+    "sourceType": "social",
+    "time": "2026-04-12T17:50:16.207601",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_2c53a52d299d_us-summons-bank-bosses-over-cyber-risks-from-ant.jpg",
+    "sourceUrl": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model"
+  },
+  {
+    "id": "article_603",
+    "category": "tech",
+    "title": "Brian Cox: \u2018We don\u2019t know how powerful AI is going to become \u2013 it\u2019s both exciting and potentially a problem\u2019",
+    "summary": "Brian Cox: \u2018We don\u2019t know how powerful AI is going to become \u2013 it\u2019s both exciting and potentially a problem\u2019. <p>The physicist, BBC presenter and author on snowflakes, art v science and the time Paul McCartney quizzed him about one of Saturn\u2019s moons</p><p><strong>What is the inspiration behind your latest live show, Emergence?</strong></p><p>It came from a book that I\u2019ve loved for years: The Six-Cornered Sn This story matters in the tech lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "The Guardian Science",
+    "sourceType": "social",
+    "time": "2026-04-12T17:50:16.208568",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_14da49a1c455_brian-cox-we-don-t-know-how-powerful-ai-is-going.jpg",
+    "sourceUrl": "https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney"
+  },
+  {
+    "id": "article_606",
+    "category": "tech",
+    "title": "Amazon to finally launch Leo satellite internet in \u2018mid-2026\u2019, says CEO",
+    "summary": "Amazon to finally launch Leo satellite internet in \u2018mid-2026\u2019, says CEO. <p>Andy Jassy tells shareholders that long-awaited rival to Elon Musk\u2019s Starlink is \u2018on the verge\u2019 of going live</p><p>Amazon has said its long-awaited satellite internet rival to Elon Musk\u2019s Starlink will finally go live in \u201cmid-2026\u201d.</p><p>The chief executive, Andy Jassy, said in a letter to shar This story matters in the tech lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "The Guardian Science",
+    "sourceType": "social",
+    "time": "2026-04-12T17:50:16.368136",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_1769f00f0564_amazon-to-finally-launch-leo-satellite-internet-.jpg",
+    "sourceUrl": "https://www.theguardian.com/technology/2026/apr/10/amazon-launch-leo-satellite-internet-andy-jassy"
+  },
+  {
     "id": "article_2916",
     "category": "tech",
     "title": "Push endpoint smoke",
