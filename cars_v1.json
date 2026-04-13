@@ -1,5 +1,38 @@
 [
   {
+    "id": "article_333",
+    "category": "tech",
+    "title": "The Strokes announce seventh album \u201cReality Awaits\u201d for summer release, marking first comeback in 6 years",
+    "summary": "The Strokes announced their seventh studio album Reality Awaits set for release this summer via an Instagram post reported Monday. The teaser featured a 1980s Nissan 300ZX image with the tagline In the flesh it\u2019s even sexier It marks their first album since t\u2026",
+    "sourceName": "The Times of India",
+    "sourceType": "social",
+    "time": "2026-04-08T09:39:33.778035",
+    "imageUrl": "https://img.etimg.com/thumb/msid-130071184,width-1200,height-630,imgsize-12612,overlay-economictimes/articleshow.jpg",
+    "sourceUrl": "https://economictimes.indiatimes.com/news/international/us/the-strokes-announce-seventh-album-reality-awaits-for-summer-release-marking-first-comeback-in-6-years/articleshow/130071184.cms"
+  },
+  {
+    "id": "article_319",
+    "category": "tech",
+    "title": "AI Will Give Humanity the Moon, Mars and Supersonic Travel",
+    "summary": "Boom Supersonic has secured one major public sales order for its Superpower 42 MW natural gas turbines aimed at AI data centers. They will sell 29 units totaling 1.21 GW from launch customer Crusoe (announced December 9, 2025), creating a $1.25 billion backlo\u2026",
+    "sourceName": "Next Big Future",
+    "sourceType": "social",
+    "time": "2026-04-08T09:39:09.503789",
+    "imageUrl": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/04/Screenshot-2026-04-06-at-5.58.17-PM-1024x406.jpg",
+    "sourceUrl": "https://www.nextbigfuture.com/2026/04/ai-will-give-humanity-the-moon-mars-and-supersonic-travel.html"
+  },
+  {
+    "id": "article_577",
+    "category": "tech",
+    "title": "Japan is sending engineers to Ukraine\u2019s frontline \u2014 and they\u2019re coming back with $2,500 weapon",
+    "summary": " (Source: Reddit r/worldnews (\u21915160))",
+    "sourceName": "Reddit r/worldnews (\u21915160)",
+    "sourceType": "social",
+    "time": "2026-04-09T23:16:21.578314",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "sourceUrl": "https://reddit.com/r/worldnews/comments/1sgbzft/japan_is_sending_engineers_to_ukraines_frontline/"
+  },
+  {
     "id": "article_338",
     "category": "tech",
     "title": "AI design platform Picsart launches a creator monetization program | TechCrunch",
