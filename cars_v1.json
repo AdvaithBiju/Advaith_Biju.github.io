@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "article_1",
+    "category": "tech",
+    "title": "This is peak male happiness",
+    "summary": "This is peak male happiness (via Reddit (\u219192809))",
+    "sourceName": "Reddit (\u219192809)",
+    "sourceType": "social",
+    "time": "2026-04-01T00:04:48.390482",
+    "imageUrl": null,
+    "sourceUrl": "https://reddit.com/r/interesting/comments/1s82zt2/this_is_peak_male_happiness/"
+  }
+]
