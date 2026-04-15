@@ -1,5 +1,225 @@
 [
   {
+    "id": "article_792",
+    "category": "trending",
+    "title": "Rare concert recordings are landing on the Internet Archive",
+    "summary": "Rare concert recordings are landing on the Internet Archive. Rare concert recordings are landing on the Internet Archive This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.413965",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_1ef56cd7c050_rare-concert-recordings-are-landing-on-the-inter.jpg",
+    "sourceUrl": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now"
+  },
+  {
+    "id": "article_793",
+    "category": "tech",
+    "title": "Amazon to acquire Globalstar and expand Amazon Leo satellite network",
+    "summary": "Amazon to acquire Globalstar and expand Amazon Leo satellite network. Amazon to acquire Globalstar and expand Amazon Leo satellite network This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.431606",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_41b96a745a91_amazon-to-acquire-globalstar-and-expand-amazon-l.jpg",
+    "sourceUrl": "https://businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network"
+  },
+  {
+    "id": "article_794",
+    "category": "tech",
+    "title": "The Orange Pi 6 Plus",
+    "summary": "The Orange Pi 6 Plus. The Orange Pi 6 Plus This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.432012",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_ad76a714786e_the-orange-pi-6-plus.jpg",
+    "sourceUrl": "https://taoofmac.com/space/reviews/2026/04/11/1900"
+  },
+  {
+    "id": "article_795",
+    "category": "tech",
+    "title": "A communist Apple II and fourteen years of not knowing what you're testing",
+    "summary": "A communist Apple II and fourteen years of not knowing what you're testing. A communist Apple II and fourteen years of not knowing what you're testing This story matters in the tech lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.450449",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_b009a9c8e427_a-communist-apple-ii-and-fourteen-years-of-not-k.jpg",
+    "sourceUrl": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing"
+  },
+  {
+    "id": "article_796",
+    "category": "tech",
+    "title": "Installing OpenBSD on the Pomera DM250 Writerdeck",
+    "summary": "Installing OpenBSD on the Pomera DM250 Writerdeck. Installing OpenBSD on the Pomera DM250 Writerdeck This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.450835",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_ff58299709c4_installing-openbsd-on-the-pomera-dm250-writerdec.jpg",
+    "sourceUrl": "https://jcs.org/2026/04/09/openbsd-dm250"
+  },
+  {
+    "id": "article_797",
+    "category": "tech",
+    "title": "Understanding Clojure's Persistent Vectors, pt. 1 (2013)",
+    "summary": "Understanding Clojure's Persistent Vectors, pt. 1 (2013). Understanding Clojure's Persistent Vectors, pt. 1 (2013) This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.462989",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_80677a8aa7d0_understanding-clojure-s-persistent-vectors-pt-1-.jpg",
+    "sourceUrl": "https://hypirion.com/musings/understanding-persistent-vector-pt-1"
+  },
+  {
+    "id": "article_798",
+    "category": "tech",
+    "title": "Picasso\u2019s Guernica (Gigapixel)",
+    "summary": "Picasso\u2019s Guernica (Gigapixel). Picasso\u2019s Guernica (Gigapixel) This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.481286",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_24f7709020ff_picasso-s-guernica-gigapixel.jpg",
+    "sourceUrl": "https://guernica.museoreinasofia.es/gigapixel"
+  },
+  {
+    "id": "article_799",
+    "category": "tech",
+    "title": "Don't feel like exercising? Maybe it's the wrong time of day for you",
+    "summary": "Don't feel like exercising? Maybe it's the wrong time of day for you. Don't feel like exercising? Maybe it's the wrong time of day for you This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.482046",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_5fee24ed3064_don-t-feel-like-exercising-maybe-it-s-the-wrong-.jpg",
+    "sourceUrl": "https://bbc.com/news/articles/cd6lzpxwx50o"
+  },
+  {
+    "id": "article_800",
+    "category": "tech",
+    "title": "5NF and Database Design",
+    "summary": "5NF and Database Design. 5NF and Database Design This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.503566",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_6f36819a18d1_5nf-and-database-design.jpg",
+    "sourceUrl": "https://kb.databasedesignbook.com/posts/5nf"
+  },
+  {
+    "id": "article_801",
+    "category": "tech",
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "summary": "Turn your best AI prompts into one-click tools in Chrome. Turn your best AI prompts into one-click tools in Chrome This story matters in the tech lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.504054",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_681ae0a5f830_turn-your-best-ai-prompts-into-one-click-tools-i.jpg",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome"
+  },
+  {
+    "id": "article_802",
+    "category": "tech",
+    "title": "PCBWay sponsorship: full-size SD module for Arduino projects",
+    "summary": "PCBWay sponsorship: full-size SD module for Arduino projects. PCBWay sponsorship: full-size SD module for Arduino projects This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.520053",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_44e229ae3c72_pcbway-sponsorship-full-size-sd-module-for-ardui.jpg",
+    "sourceUrl": "https://colino.net/wordpress/archives/2026/04/10/pcbway-sponsorship-full-size-sd-module-for-arduino-projects"
+  },
+  {
+    "id": "article_803",
+    "category": "tech",
+    "title": "Saying goodbye to Agile",
+    "summary": "Saying goodbye to Agile. Saying goodbye to Agile This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.521013",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_a497fa17519d_saying-goodbye-to-agile.jpg",
+    "sourceUrl": "https://lewiscampbell.tech/blog/260414.html"
+  },
+  {
+    "id": "article_804",
+    "category": "tech",
+    "title": "Let's talk space toilets",
+    "summary": "Let's talk space toilets. Let's talk space toilets This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.538274",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_17f11ffe9fd8_let-s-talk-space-toilets.jpg",
+    "sourceUrl": "https://mceglowski.substack.com/p/lets-talk-space-toilets"
+  },
+  {
+    "id": "article_805",
+    "category": "tech",
+    "title": "The dangers of California's legislation to censor 3D printing",
+    "summary": "The dangers of California's legislation to censor 3D printing. The dangers of California's legislation to censor 3D printing This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.538817",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_2a886199d555_the-dangers-of-california-s-legislation-to-censo.jpg",
+    "sourceUrl": "https://eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing"
+  },
+  {
+    "id": "article_806",
+    "category": "tech",
+    "title": "Trusted access for the next era of cyber defense",
+    "summary": "Trusted access for the next era of cyber defense. Trusted access for the next era of cyber defense This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.554959",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_99c4cc61463b_trusted-access-for-the-next-era-of-cyber-defense.jpg",
+    "sourceUrl": "https://openai.com/index/scaling-trusted-access-for-cyber-defense"
+  },
+  {
+    "id": "article_807",
+    "category": "tech",
+    "title": "Game: Print Gallery Of An Artist, A brief exploration of recursive spaces",
+    "summary": "Game: Print Gallery Of An Artist, A brief exploration of recursive spaces. Game: Print Gallery Of An Artist, A brief exploration of recursive spaces This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.555628",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_48c9e7118753_game-print-gallery-of-an-artist-a-brief-explorat.jpg",
+    "sourceUrl": "https://managore.itch.io/print-gallery-of-an-artist"
+  },
+  {
+    "id": "article_808",
+    "category": "tech",
+    "title": "Tell HN: Fiverr left customer files public and searchable",
+    "summary": "Tell HN: Fiverr left customer files public and searchable. Tell HN: Fiverr left customer files public and searchable This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.574018",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_8b7e9b928620_tell-hn-fiverr-left-customer-files-public-and-se.jpg",
+    "sourceUrl": "https://news.ycombinator.com/item?id=47769796"
+  },
+  {
+    "id": "article_809",
+    "category": "tech",
+    "title": "Guide.world: A compendium of travel guides",
+    "summary": "Guide.world: A compendium of travel guides. Guide.world: A compendium of travel guides This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.574527",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_0f45fabcc175_guide-world-a-compendium-of-travel-guides.jpg",
+    "sourceUrl": "https://guide.world/"
+  },
+  {
+    "id": "article_810",
+    "category": "tech",
+    "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
+    "summary": "I wrote to Flock's privacy contact to opt out of their domestic spying program. I wrote to Flock's privacy contact to opt out of their domestic spying program This story matters in the trending lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.612759",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_13b343d18b5b_i-wrote-to-flock-s-privacy-contact-to-opt-out-of.jpg",
+    "sourceUrl": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html"
+  },
+  {
+    "id": "article_812",
+    "category": "tech",
+    "title": "Show HN: Plain \u2013 The full-stack Python framework designed for humans and agents",
+    "summary": "Show HN: Plain \u2013 The full-stack Python framework designed for humans and agents. Show HN: Plain \u2013 The full-stack Python framework designed for humans and agents This story matters in the tech lane and is worth a quick follow-up from primary sources.",
+    "sourceName": "Hacker News",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:48.635650",
+    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_831d88ff4ffb_show-hn-plain-the-full-stack-python-framework-de.jpg",
+    "sourceUrl": "https://github.com/dropseed/plain"
+  },
+  {
     "id": "article_769",
     "category": "tech",
     "title": "Chip giant ASML raises 2026 guidance as AI semiconductor demand stays strong",
@@ -1978,38 +2198,5 @@
     "time": "2026-04-13T19:30:56.699980",
     "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_b30cbd181ade_my-son-categorized-our-games-today-apparently-th.jpg",
     "sourceUrl": "https://reddit.com/r/gaming/comments/1sjj0xw/my_son_categorized_our_games_today_apparently_the"
-  },
-  {
-    "id": "article_515",
-    "category": "tech",
-    "title": "The Forward Deploy",
-    "summary": "Michael Burry's deleted post erased $23 billion from Palantir in a single session. The structural insight: delivery model, not technology, is the axis",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-13T19:30:56.699980",
-    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_59716515f788_the-forward-deploy.jpg",
-    "sourceUrl": "https://dev.to/thesythesis/the-forward-deploy-4c1g"
-  },
-  {
-    "id": "article_53",
-    "category": "tech",
-    "title": "US, Indonesia discussing proposal allowing US military overflight in Indonesian airspace, defence ministry says - Reuters",
-    "summary": "US, Indonesia discussing proposal allowing US military overflight in Indonesian airspace, defence ministry says - Reuters",
-    "sourceName": "Google News Reuters",
-    "sourceType": "news",
-    "time": "2026-04-13T19:30:56.699980",
-    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_9e0cd7835de6_us-indonesia-discussing-proposal-allowing-us-mil.jpg",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeElZd0YzZTJsZ3pWNWttN21YWWgxYWFyNDJsSTQ4dEc0NWtJWHFwNUdoSHZIc0tVVTBpM1VZUkJHN3l6MWtUb0NJdG1lcDVwXzFMYThCQzloWk9aOXltcmV6Qk9DdjZXLXlocFlpMDJBV2pNOUViZF9xb1pVcThmVUNWSWIxRERBYmRIcGhMaFNQd0l0RVJTbHlkVm40Z3VKamczcUJSWnhuMHJsT2U1aUFXOGZHQmxDLXgwZmdVSTZmbnZpME1JX2xwMA?oc=5"
-  },
-  {
-    "id": "article_8",
-    "category": "tech",
-    "title": "Crypto News: Pepeto Exchange Passes Final Testing While Cardano Price Prediction Targets $10 After Midnight Launch",
-    "summary": "Dubai, UAE, March 30, 2026 (GLOBE NEWSWIRE) -- Pepeto just announced that its exchange passed final testing, and the crypto news response was instant. Every major crypto outlet is covering the presale, communities across Telegram, X, and Reddit are sharing it\u2026",
-    "sourceName": "GlobeNewswire",
-    "sourceType": "social",
-    "time": "2026-04-01T10:13:11.773477",
-    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_b8867ef8b487_crypto-news-pepeto-exchange-passes-final-testing.jpg",
-    "sourceUrl": "https://www.globenewswire.com/news-release/2026/03/31/3265135/0/en/Crypto-News-Pepeto-Exchange-Passes-Final-Testing-While-Cardano-Price-Prediction-Targets-10-After-Midnight-Launch.html"
   }
 ]
