@@ -1,5 +1,368 @@
 [
   {
+    "id": "article_876",
+    "category": "tech",
+    "title": "Confessions of a Dev #1:I Went Blank When Asked \"What's an API?\"",
+    "summary": "Last week, a friend asked me something so basic, so fundamental that i should have been able to",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T13:06:53.062642",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g6b4q96wf1cvwaw3tz9.png",
+    "sourceUrl": "https://dev.to/stephen_jarso/confessions-of-a-dev-1i-went-blank-when-asked-whats-an-api-4e5f"
+  },
+  {
+    "id": "article_877",
+    "category": "tech",
+    "title": "I Shrunk My Docker Image From 1.58GB to 186MB. Then I Had to Explain What I Actually Broke.",
+    "summary": "Most Docker tutorials end at the win. Look, smaller image!",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T13:06:53.064701",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F55grt8bvj3xxip7ybtvi.png",
+    "sourceUrl": "https://dev.to/arbythecoder/i-shrunk-my-docker-image-from-158gb-to-186mb-then-i-had-to-explain-what-i-actually-broke-34be"
+  },
+  {
+    "id": "article_879",
+    "category": "tech",
+    "title": "Meu primeiro bootcamp na DIO (CI&T Java backend)",
+    "summary": "Este \u00e9 o meu terceiro artigo aqui para o Dev.to, conclu\u00ed dia 10/04/2026 este Bootcamp da DIO e",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T13:06:53.096186",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjfh548r1u03ptmhq1py3.png",
+    "sourceUrl": "https://dev.to/thnocard36/meu-primeiro-bootcamp-na-dio-cit-java-backend-47l2"
+  },
+  {
+    "id": "article_882",
+    "category": "tech",
+    "title": "You Vibe-Coded. Now What?",
+    "summary": "I was at an AI event a few weeks ago when someone casually mentioned theyd vibe-coded their own CRM",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T13:06:53.136469",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpqbybabh0xo5z7ilntmj.jpg",
+    "sourceUrl": "https://dev.to/srbhr/you-vibe-coded-now-what-42on"
+  },
+  {
+    "id": "article_883",
+    "category": "tech",
+    "title": "Stop Coding Through Remote Desktop. Use VS Code Remote Tunnels Instead",
+    "summary": "There is a pattern I keep seeing with customer environments. You get access to a VM for development",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T13:06:53.137551",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwg5hp85jarebtkcueqtn.png",
+    "sourceUrl": "https://dev.to/playfulprogramming/stop-coding-through-remote-desktop-use-vs-code-remote-tunnels-instead-37oc"
+  },
+  {
+    "id": "article_884",
+    "category": "tech",
+    "title": "Your Job Isn't Going Away. But Someone's Fundraise Depends on You Thinking It Is.",
+    "summary": "Ive been watching the AI narrative closely. Building with it.",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T13:06:53.200604",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2t9acqob0h10817t6c26.png",
+    "sourceUrl": "https://dev.to/jon_at_backboardio/your-job-isnt-going-away-but-someones-fundraise-depends-on-you-thinking-it-is-12el"
+  },
+  {
+    "id": "article_885",
+    "category": "tech",
+    "title": "Why Your Free Trial Isn't Converting to Paid",
+    "summary": "The average SaaS free trial converts at 2-5%. If youre below that - or wondering if you should be above it - heres how to diagnose and fix it",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T13:06:53.201594",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwednesday-solutions%2Frightsuite.co%2Fmain%2Fassets%2Fimages%2Fcovers%2Fafter-pricing.png%3Fv%3D4",
+    "sourceUrl": "https://dev.to/alichherawalla/why-your-free-trial-isnt-converting-to-paid-3k0k"
+  },
+  {
+    "id": "article_889",
+    "category": "tech",
+    "title": "Building Startup Infrastructure the Right Way",
+    "summary": "I recently started working on a systematic 30-day startup infrastructure plan and have been working",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T13:06:53.255367",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbzmyburb2z8cpqddxuu9.png",
+    "sourceUrl": "https://dev.to/ismailg/building-startup-infrastructure-the-right-way-49mb"
+  },
+  {
+    "id": "article_890",
+    "category": "tech",
+    "title": "I built a 3D interactive globe to explore world history, civilizations",
+    "summary": "I wanted a way to explore how countries and civilizations are connected through history \u2014 not",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T13:06:53.275122",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl75yk8ybxwrommn7wml7.png",
+    "sourceUrl": "https://dev.to/chong_c607d5a05b79c9cf41f/i-built-a-3d-interactive-globe-to-explore-world-history-civilizations-1p7i"
+  },
+  {
+    "id": "article_891",
+    "category": "tech",
+    "title": "How to Write a SaaS Landing Page That Converts",
+    "summary": "A SaaS landing page has one job: get the right visitor to take the next step. Heres the section-by-section formula that converts",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T13:06:53.276510",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwednesday-solutions%2Frightsuite.co%2Fmain%2Fassets%2Fimages%2Fcovers%2Fafter-messaging.png%3Fv%3D4",
+    "sourceUrl": "https://dev.to/alichherawalla/how-to-write-a-saas-landing-page-that-converts-18hk"
+  },
+  {
+    "id": "article_892",
+    "category": "tech",
+    "title": "How I Built a Premium SaaS Landing Page Template with Tailwind CSS and Vanilla JS",
+    "summary": "Building landing pages for SaaS products is repetitive. Hero section, feature grid, pricing table",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T13:06:53.296566",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffreejbx4wfrkai9fh4zc.jpg",
+    "sourceUrl": "https://dev.to/ctrlcheese/how-i-built-a-premium-saas-landing-page-template-with-tailwind-css-and-vanilla-js-12k7"
+  },
+  {
+    "id": "article_894",
+    "category": "important_news",
+    "title": "The Emotional Terror of Closing a Browser Tab",
+    "summary": "My laptop sounds like it is preparing for a low-orbit launch. The fan is screaming.",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T13:06:53.313533",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F42vjiwttvi7wiiy1xe78.png",
+    "sourceUrl": "https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k"
+  },
+  {
+    "id": "article_842",
+    "category": "trending",
+    "title": "What Karpathy's LLM Wiki Is Missing (And How to Fix It)",
+    "summary": "Andrej Karpathys LLM Wiki pattern went viral this month. 5,000+ stars, 3,700 forks, dozens of",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:50.012014",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1i3jral4eavc8zafh9h.png",
+    "sourceUrl": "https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988"
+  },
+  {
+    "id": "article_844",
+    "category": "tech",
+    "title": "Why I Built tat: A Tiny API Test Tool for Real Integration Work and fits With AI Workflows",
+    "summary": "Recently, I was assigned to integrate with an API from another internal application. This was not a",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:50.034183",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhu8brnmpprnqqvcizar.png",
+    "sourceUrl": "https://dev.to/joehom_sum_e64272f38d9618/why-i-built-tat-a-tiny-api-test-tool-for-real-integration-work-and-fits-with-ai-workflows-4b99"
+  },
+  {
+    "id": "article_847",
+    "category": "tech",
+    "title": "Why Build a Local MCP Server (And How to Do It in 15 Minutes)",
+    "summary": "Ive been working with MCP servers for a few months now. If youre not familiar, MCP (Model Context",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:50.049898",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3zocuzsp5lqenz6cr866.png",
+    "sourceUrl": "https://dev.to/evanlausier/why-build-a-local-mcp-server-and-how-to-do-it-in-15-minutes-1423"
+  },
+  {
+    "id": "article_848",
+    "category": "tech",
+    "title": "How I Ran a Live Production Upgrade in 24 Minutes Without Taking the Site Down",
+    "summary": "I upgraded Shipstrys production data model for comments and payments, backfilled historical orders, and kept public routes",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:50.066727",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1602763288580-927cfda37a72%3Fq%3D80%26w%3D2072%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
+    "sourceUrl": "https://dev.to/rokcso/how-i-ran-a-live-production-upgrade-in-24-minutes-without-taking-the-site-down-4hcn"
+  },
+  {
+    "id": "article_832",
+    "category": "tech",
+    "title": "1. Beyond the chatbot: Engineering the agentic enterprise",
+    "summary": "Beyond the chatbot: Engineering the agentic enterprise Why It Matters The rise of",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:49.880755",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1761223976379-04c361d3068a%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DM3w4ODA5NTh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYyMjQ4ODd8%26ixlib%3Drb-4.1.0%26q%3D80%26w%3D1080",
+    "sourceUrl": "https://dev.to/clydecorreya/1-beyond-the-chatbot-engineering-the-agentic-enterprise-5ejp"
+  },
+  {
+    "id": "article_834",
+    "category": "tech",
+    "title": "AI in Tech: Benchmarks, Hype, and the Real Future of Developers",
+    "summary": "A deep dive into where AI actually stands in the tech industry today, what the benchmarks tell us, and whether developers should",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:49.911656",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgafie7xqv82u7y7nrl49.png",
+    "sourceUrl": "https://dev.to/techifive/ai-in-tech-benchmarks-hype-and-the-real-future-of-developers-m1f"
+  },
+  {
+    "id": "article_835",
+    "category": "tech",
+    "title": "TikTok Got Banned. Here's What That Actually Means for Your Website.",
+    "summary": "TikToks regulatory story is being read as a geopolitics story. Its actually a website strategy",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:49.912661",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvf6w3768qc8eql3ayio7.png",
+    "sourceUrl": "https://dev.to/natalie_seeklab_4ce72aa3b/tiktok-got-banned-heres-what-that-actually-means-for-your-website-4665"
+  },
+  {
+    "id": "article_838",
+    "category": "tech",
+    "title": "MCP in Action: A Developer's Take on Smarter Service Coordination",
+    "summary": "Explore how building an MCP server ecosystem transformed our AI agents\u2014enabling them to search the",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:49.959685",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy021bxzv6fhgxm5bzok3.png",
+    "sourceUrl": "https://dev.to/geekyants-inc/mcp-in-action-a-developers-take-on-smarter-service-coordination-59cb"
+  },
+  {
+    "id": "article_839",
+    "category": "tech",
+    "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+    "summary": "Ive been building AI agents in production for the past two years. Not demos.",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:49.960368",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
+    "sourceUrl": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop"
+  },
+  {
+    "id": "article_841",
+    "category": "tech",
+    "title": "How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)",
+    "summary": "Background I needed high-quality instruction datasets for fine-tuning local LLMs, but",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-15T12:42:49.987086",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvbxxtr6enq3ufzqpjt2r.png",
+    "sourceUrl": "https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280"
+  },
+  {
+    "id": "article_511",
+    "category": "tech",
+    "title": "Agentic AI explained for beginners",
+    "summary": "Imagine having an AI assistant that doesnt just follow orders, but actually thinks ahead and takes...",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-13T19:30:56.699980",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1lv6vvoxi2b9zxxoomu.png",
+    "sourceUrl": "https://dev.to/aditya_gaikwad_32af323571/agentic-ai-explained-for-beginners-2g4e"
+  },
+  {
+    "id": "article_519",
+    "category": "tech",
+    "title": "I Ran 500 More Agent Memory Experiments. The Real Problem Wasn\u2019t Recall. It Was Binding.",
+    "summary": "This is a follow-up to I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy. If you...",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-13T19:30:56.699980",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5p1111wbcgkt9kmauou.png",
+    "sourceUrl": "https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc"
+  },
+  {
+    "id": "article_525",
+    "category": "tech",
+    "title": "Bringing Claude's \"Dispatch\" Experience to Gemini and OpenCode",
+    "summary": "Claude\u2019s Dispatch feature nailed the mobile-to-desktop UX. Being able to pull out your phone,...",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-13T19:30:56.699980",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1f7ywcomalzkkj8wb6bp.png",
+    "sourceUrl": "https://dev.to/onurcinar/bringing-claudes-dispatch-experience-to-gemini-and-opencode-3pef"
+  },
+  {
+    "id": "article_527",
+    "category": "tech",
+    "title": "Building AI Workflows for DevOps Teams",
+    "summary": "DevOps teams are some of the best candidates for multi-agent automation. The work is repetitive,...",
+    "sourceName": "Dev.to",
+    "sourceType": "tech",
+    "time": "2026-04-13T19:30:56.699980",
+    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fswrly.com%2Fblog%2Fblog-ai-devops.jpeg",
+    "sourceUrl": "https://dev.to/swrly/building-ai-workflows-for-devops-teams-51p2"
+  },
+  {
+    "id": "article_14",
+    "category": "trending",
+    "title": "What Is The 'These Nuggets Ain't Ready' Meme? The Viral 'KSI' Memes On TikTok And Instagram",
+    "summary": "Rapper and content creator KSI is getting clowned on for his music once again, and this time, chicken nuggets are involved. Heres what you need to know.",
+    "sourceName": "Knowyourmeme.com",
+    "sourceType": "social",
+    "time": "2026-04-01T10:13:13.670712",
+    "imageUrl": "https://i.kym-cdn.com/editorials/icons/original/000/016/025/AINTREADY.jpg",
+    "sourceUrl": "https://knowyourmeme.com/editorials/guides/what-is-the-these-nuggets-aint-ready-meme-the-viral-ksi-memes-on-tiktok-and-instagram-reels-explained"
+  },
+  {
+    "id": "article_15",
+    "category": "trending",
+    "title": "Mormon Wives' Layla Teases How She's Coping With 'All the Drama in MomTok'",
+    "summary": "Layla Taylor is trying her best to figure out whether MomTok can survive its nonstop wave of drama and scandals. \u201c\u2018How are you doing with all the drama in MomTok?\u2019\u201d Layla, 25, wrote over a Friday, March 27, TikTok video",
+    "sourceName": "Us Weekly",
+    "sourceType": "social",
+    "time": "2026-04-01T10:13:13.692071",
+    "imageUrl": "https://www.usmagazine.com/wp-content/uploads/2026/03/Layla-Taylor-177302_1705_R.jpg?crop=0px%2C188px%2C1334px%2C701px&resize=1200%2C630&quality=86&strip=all",
+    "sourceUrl": "https://www.usmagazine.com/celebrity-news/news/how-mormon-wives-layla-taylor-is-coping-with-momtok-drama/"
+  },
+  {
+    "id": "article_12",
+    "category": "sports",
+    "title": "Baltimore Orioles Announce Andrew Kittredge Injury Update Before Rangers Game",
+    "summary": "The Baltimore Orioles announced an update on right-handed relief pitcher Andrew Kittredges injury.",
+    "sourceName": "Roundtable.io",
+    "sourceType": "social",
+    "time": "2026-04-01T10:13:12.754572",
+    "imageUrl": "https://s.yimg.com/ny/api/res/1.2/DS9gry3o4eG6MT1rfw3Few--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/roundtable_sports_baltimore_orioles_articles_145/bb549d2ae2fe3e19bf49069e51c36355",
+    "sourceUrl": "https://roundtable.io/sports/mlb/orioles/news/baltimore-orioles-announce-andrew-kittredge-injury-update-before-rangers-game"
+  },
+  {
+    "id": "article_13",
+    "category": "auto",
+    "title": "Canucks\u2019 Evander Kane Plays In 1000th NHL Game Against The Golden Knights",
+    "summary": "Canucks forward Evander Kane has officially skated in his 1000th career NHL game against the Vegas Golden Knights.",
+    "sourceName": "The Hockey News",
+    "sourceType": "social",
+    "time": "2026-04-01T10:13:12.782335",
+    "imageUrl": "https://s.yimg.com/ny/api/res/1.2/h0F.jkBRSBBo3b5Kc0wPWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTc7Y2Y9d2VicA--/https://media.zenfs.com/en/the_hockey_news_vancouver_canucks_articles_867/9cc1a8f2a5e7f95f1f03a33f8803baf2",
+    "sourceUrl": "https://thehockeynews.com/nhl/vancouver-canucks/latest-news/canucks-evander-kane-plays-in-1000th-nhl-game-against-the-golden-knights"
+  },
+  {
+    "id": "article_7",
+    "category": "trending",
+    "title": "Lindsey Graham Viciously Mocked for Posting Gun Photo After Disney World Photos Go Viral",
+    "summary": "Sen. Lindsey Graham (R-SC) is putting the adage about all press is good press to the test after getting viciously",
+    "sourceName": "Mediaite",
+    "sourceType": "social",
+    "time": "2026-04-01T10:13:11.748478",
+    "imageUrl": "https://www.mediaite.com/wp-content/uploads/2026/03/graham.jpeg",
+    "sourceUrl": "https://www.mediaite.com/politics/lindsey-graham-viciously-mocked-for-posting-gun-photo-after-disney-world-photos-go-viral/"
+  },
+  {
+    "id": "article_10",
+    "category": "important_news",
+    "title": "'A succulent Chinese meal' - iconic Australian quote immortalised in national archive",
+    "summary": "The theatrical monologue given by Jack Karlson as he was arrested in 1991 has been officially recognised as a lasting piece of",
+    "sourceName": "BBC News",
+    "sourceType": "news",
+    "time": "2026-04-01T10:13:11.816850",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7ec5/live/8fa350f0-5559-11ef-aecb-49b8ad5d78f7.png",
+    "sourceUrl": "https://www.bbc.com/news/articles/c3exvk1207ko"
+  },
+  {
+    "id": "article_11",
+    "category": "trending",
+    "title": "Australians resort to \u2018cooking their own petrol\u2019 as fuel prices surge past $3",
+    "summary": "A Sunshine Coast local has taken drastic action as fuel prices spiral, and his viral solution has Aussies asking if it\u2019s really",
+    "sourceName": "News.com.au",
+    "sourceType": "social",
+    "time": "2026-04-01T10:13:11.835828",
+    "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2026/03/124739001.jpg?quality=75&strip=all&w=1200",
+    "sourceUrl": "https://www.news.com.au/technology/motoring/on-the-road/aussies-resort-to-cooking-their-own-petrol-as-fuel-prices-surge-past-3-a-litre/news-story/204b5eef39c0e2c9e18c9f045839accb"
+  },
+  {
     "id": "article_906",
     "category": "important_news",
     "title": "From Software Engineer to Developer Advocate: The Silent Transition I've Been Making for Years Without Knowing It",
@@ -97,50 +460,6 @@
     "time": "2026-04-15T12:42:48.358891",
     "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_7273c295b18a_predicting-the-entire-nba-postseason-with-a-surp.jpg",
     "sourceUrl": "https://espn.com/nba/story/_/id/48476034/2026-nba-playoff-predicting-series-including-finals"
-  },
-  {
-    "id": "article_876",
-    "category": "tech",
-    "title": "Confessions of a Dev #1:I Went Blank When Asked \"What's an API?\"",
-    "summary": "Confessions of a Dev #1:I Went Blank When Asked \"What's an API?\". Last week, a friend asked me something so basic, so fundamental that i should have been able to... This story matters in the auto lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T13:06:53.062642",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6g6b4q96wf1cvwaw3tz9.png",
-    "sourceUrl": "https://dev.to/stephen_jarso/confessions-of-a-dev-1i-went-blank-when-asked-whats-an-api-4e5f"
-  },
-  {
-    "id": "article_879",
-    "category": "tech",
-    "title": "Meu primeiro bootcamp na DIO (CI&T Java backend)",
-    "summary": "Meu primeiro bootcamp na DIO (CI&T Java backend). Este \u00e9 o meu terceiro artigo aqui para o Dev.to, conclu\u00ed dia 10/04/2026 este Bootcamp da DIO e... This story matters in the auto lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T13:06:53.096186",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjfh548r1u03ptmhq1py3.png",
-    "sourceUrl": "https://dev.to/thnocard36/meu-primeiro-bootcamp-na-dio-cit-java-backend-47l2"
-  },
-  {
-    "id": "article_883",
-    "category": "tech",
-    "title": "Stop Coding Through Remote Desktop. Use VS Code Remote Tunnels Instead",
-    "summary": "Stop Coding Through Remote Desktop. Use VS Code Remote Tunnels Instead. There is a pattern I keep seeing with customer environments. You get access to a VM for development.... This story matters in the auto lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T13:06:53.137551",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwg5hp85jarebtkcueqtn.png",
-    "sourceUrl": "https://dev.to/playfulprogramming/stop-coding-through-remote-desktop-use-vs-code-remote-tunnels-instead-37oc"
-  },
-  {
-    "id": "article_894",
-    "category": "important_news",
-    "title": "The Emotional Terror of Closing a Browser Tab",
-    "summary": "The Emotional Terror of Closing a Browser Tab. My laptop sounds like it is preparing for a low-orbit launch. The fan is screaming. The metal chassis... This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T13:06:53.313533",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F42vjiwttvi7wiiy1xe78.png",
-    "sourceUrl": "https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k"
   },
   {
     "id": "article_873",
@@ -407,17 +726,6 @@
     "sourceUrl": "https://dev.to/delfinobiang/i-built-a-browser-based-coding-education-platform-as-a-cs-student-heres-how-9k9"
   },
   {
-    "id": "article_885",
-    "category": "tech",
-    "title": "Why Your Free Trial Isn't Converting to Paid",
-    "summary": "Why Your Free Trial Isn't Converting to Paid. The average SaaS free trial converts at 2-5%. If you're below that - or wondering if you should be above it - here's how to diagnose and fix it. This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T13:06:53.201794",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwednesday-solutions%2Frightsuite.co%2Fmain%2Fassets%2Fimages%2Fcovers%2Fafter-pricing.png%3Fv%3D4",
-    "sourceUrl": "https://dev.to/alichherawalla/why-your-free-trial-isnt-converting-to-paid-3k0k"
-  },
-  {
     "id": "article_886",
     "category": "tech",
     "title": "\u653f\u5e9c\u7f51\u7ad9\u4e0d\u80fd\u722c\uff1f\u804a\u804a\u4f01\u67e5\u67e5\u7b49\u5de5\u5546\u6570\u636e\u67e5\u8be2\u516c\u53f8\u7684\u4e0a\u5e02\u4e4b\u8def",
@@ -449,50 +757,6 @@
     "time": "2026-04-15T13:06:53.254246",
     "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_327942b622dc_shipping-a-framer-template-3-booking-widgets-in-.jpg",
     "sourceUrl": "https://dev.to/srvmhptr/shipping-a-framer-template-3-booking-widgets-in-a-weekend-launch-day-postmortem-3594"
-  },
-  {
-    "id": "article_889",
-    "category": "tech",
-    "title": "Building Startup Infrastructure the Right Way",
-    "summary": "Building Startup Infrastructure the Right Way. I recently started working on a systematic \"30-day startup infrastructure plan\" and have been working... This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T13:06:53.255703",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbzmyburb2z8cpqddxuu9.png",
-    "sourceUrl": "https://dev.to/ismailg/building-startup-infrastructure-the-right-way-49mb"
-  },
-  {
-    "id": "article_890",
-    "category": "tech",
-    "title": "I built a 3D interactive globe to explore world history, civilizations",
-    "summary": "I built a 3D interactive globe to explore world history, civilizations. I wanted a way to explore how countries and civilizations are connected through history \u2014 not... This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T13:06:53.275497",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl75yk8ybxwrommn7wml7.png",
-    "sourceUrl": "https://dev.to/chong_c607d5a05b79c9cf41f/i-built-a-3d-interactive-globe-to-explore-world-history-civilizations-1p7i"
-  },
-  {
-    "id": "article_891",
-    "category": "tech",
-    "title": "How to Write a SaaS Landing Page That Converts",
-    "summary": "How to Write a SaaS Landing Page That Converts. A SaaS landing page has one job: get the right visitor to take the next step. Here's the section-by-section formula that converts. This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T13:06:53.276630",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwednesday-solutions%2Frightsuite.co%2Fmain%2Fassets%2Fimages%2Fcovers%2Fafter-messaging.png%3Fv%3D4",
-    "sourceUrl": "https://dev.to/alichherawalla/how-to-write-a-saas-landing-page-that-converts-18hk"
-  },
-  {
-    "id": "article_892",
-    "category": "tech",
-    "title": "How I Built a Premium SaaS Landing Page Template with Tailwind CSS and Vanilla JS",
-    "summary": "How I Built a Premium SaaS Landing Page Template with Tailwind CSS and Vanilla JS. Building landing pages for SaaS products is repetitive. Hero section, feature grid, pricing table,... This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T13:06:53.296682",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffreejbx4wfrkai9fh4zc.jpg",
-    "sourceUrl": "https://dev.to/ctrlcheese/how-i-built-a-premium-saas-landing-page-template-with-tailwind-css-and-vanilla-js-12k7"
   },
   {
     "id": "article_893",
@@ -660,17 +924,6 @@
     "sourceUrl": "https://steveblank.com/2024/04/16/founders-need-to-be-ruthless-when-chasing-deals"
   },
   {
-    "id": "article_877",
-    "category": "tech",
-    "title": "I Shrunk My Docker Image From 1.58GB to 186MB. Then I Had to Explain What I Actually Broke.",
-    "summary": "I Shrunk My Docker Image From 1.58GB to 186MB. Then I Had to Explain What I Actually Broke.. Most Docker tutorials end at the win. \"Look, smaller image! Ship it!\" And then you're left alone at... This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T13:06:53.064820",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F55grt8bvj3xxip7ybtvi.png",
-    "sourceUrl": "https://dev.to/arbythecoder/i-shrunk-my-docker-image-from-158gb-to-186mb-then-i-had-to-explain-what-i-actually-broke-34be"
-  },
-  {
     "id": "article_878",
     "category": "tech",
     "title": "# I Built a Full Operating System in a Single HTML File \u2014 Zero Hand-Written Code",
@@ -704,39 +957,6 @@
     "sourceUrl": "https://dev.to/zenovay/why-i-ditched-ga4-for-a-custom-nextjs-supabase-analytics-stack-5foc"
   },
   {
-    "id": "article_882",
-    "category": "tech",
-    "title": "You Vibe-Coded. Now What?",
-    "summary": "You Vibe-Coded. Now What?. I was at an AI event a few weeks ago when someone casually mentioned they'd vibe-coded their own CRM.... This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T13:06:53.136581",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpqbybabh0xo5z7ilntmj.jpg",
-    "sourceUrl": "https://dev.to/srbhr/you-vibe-coded-now-what-42on"
-  },
-  {
-    "id": "article_884",
-    "category": "tech",
-    "title": "Your Job Isn't Going Away. But Someone's Fundraise Depends on You Thinking It Is.",
-    "summary": "Your Job Isn't Going Away. But Someone's Fundraise Depends on You Thinking It Is.. I've been watching the AI narrative closely. Building with it. Learning in public. Talking to... This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T13:06:53.200911",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2t9acqob0h10817t6c26.png",
-    "sourceUrl": "https://dev.to/jon_at_backboardio/your-job-isnt-going-away-but-someones-fundraise-depends-on-you-thinking-it-is-12el"
-  },
-  {
-    "id": "article_835",
-    "category": "tech",
-    "title": "TikTok Got Banned. Here's What That Actually Means for Your Website.",
-    "summary": "TikTok Got Banned. Here's What That Actually Means for Your Website.. TikTok's regulatory story is being read as a geopolitics story. It's actually a website strategy... This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T12:42:49.912711",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvf6w3768qc8eql3ayio7.png",
-    "sourceUrl": "https://dev.to/natalie_seeklab_4ce72aa3b/tiktok-got-banned-heres-what-that-actually-means-for-your-website-4665"
-  },
-  {
     "id": "article_836",
     "category": "tech",
     "title": "Anthropic Built a Model So Good at Code It Accidentally Became an Elite Hacker",
@@ -746,28 +966,6 @@
     "time": "2026-04-15T12:42:49.939460",
     "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_9857bc22f3f6_anthropic-built-a-model-so-good-at-code-it-accid.jpg",
     "sourceUrl": "https://dev.to/luffyguy/anthropic-built-a-model-so-good-at-code-it-accidentally-became-an-elite-hacker-5fbi"
-  },
-  {
-    "id": "article_838",
-    "category": "tech",
-    "title": "MCP in Action: A Developer's Take on Smarter Service Coordination",
-    "summary": "MCP in Action: A Developer's Take on Smarter Service Coordination. Explore how building an MCP server ecosystem transformed our AI agents\u2014enabling them to search the... This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T12:42:49.959780",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy021bxzv6fhgxm5bzok3.png",
-    "sourceUrl": "https://dev.to/geekyants-inc/mcp-in-action-a-developers-take-on-smarter-service-coordination-59cb"
-  },
-  {
-    "id": "article_839",
-    "category": "tech",
-    "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
-    "summary": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them). I've been building AI agents in production for the past two years. Not demos. Not weekend projects.... This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T12:42:49.960407",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7f029v1t5yu9h9okyv5.png",
-    "sourceUrl": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop"
   },
   {
     "id": "article_840",
@@ -781,28 +979,6 @@
     "sourceUrl": "https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j"
   },
   {
-    "id": "article_841",
-    "category": "tech",
-    "title": "How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)",
-    "summary": "How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries). Background I needed high-quality instruction datasets for fine-tuning local LLMs, but... This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T12:42:49.987129",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvbxxtr6enq3ufzqpjt2r.png",
-    "sourceUrl": "https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280"
-  },
-  {
-    "id": "article_842",
-    "category": "trending",
-    "title": "What Karpathy's LLM Wiki Is Missing (And How to Fix It)",
-    "summary": "What Karpathy's LLM Wiki Is Missing (And How to Fix It). Andrej Karpathy's LLM Wiki pattern went viral this month. 5,000+ stars, 3,700 forks, dozens of... This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T12:42:50.012087",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1i3jral4eavc8zafh9h.png",
-    "sourceUrl": "https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988"
-  },
-  {
     "id": "article_843",
     "category": "tech",
     "title": "The Backyard Quarry, Part 5: Digital Twins for Physical Objects",
@@ -812,17 +988,6 @@
     "time": "2026-04-15T12:42:50.013047",
     "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_46d29cf4852d_the-backyard-quarry-part-5-digital-twins-for-phy.jpg",
     "sourceUrl": "https://dev.to/kenwalger/the-backyard-quarry-part-5-digital-twins-for-physical-objects-5a9i"
-  },
-  {
-    "id": "article_844",
-    "category": "tech",
-    "title": "Why I Built tat: A Tiny API Test Tool for Real Integration Work and fits With AI Workflows",
-    "summary": "Why I Built tat: A Tiny API Test Tool for Real Integration Work and fits With AI Workflows. Recently, I was assigned to integrate with an API from another internal application. This was not a... This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T12:42:50.034271",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhu8brnmpprnqqvcizar.png",
-    "sourceUrl": "https://dev.to/joehom_sum_e64272f38d9618/why-i-built-tat-a-tiny-api-test-tool-for-real-integration-work-and-fits-with-ai-workflows-4b99"
   },
   {
     "id": "article_845",
@@ -845,28 +1010,6 @@
     "time": "2026-04-15T12:42:50.049398",
     "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_a1884eb836b2_what-a-military-entrepreneurship-course-taught-m.jpg",
     "sourceUrl": "https://dev.to/whoffagents/what-a-military-entrepreneurship-course-taught-me-about-ai-startups-1h21"
-  },
-  {
-    "id": "article_847",
-    "category": "tech",
-    "title": "Why Build a Local MCP Server (And How to Do It in 15 Minutes)",
-    "summary": "Why Build a Local MCP Server (And How to Do It in 15 Minutes). I've been working with MCP servers for a few months now. If you're not familiar, MCP (Model Context... This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T12:42:50.049937",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3zocuzsp5lqenz6cr866.png",
-    "sourceUrl": "https://dev.to/evanlausier/why-build-a-local-mcp-server-and-how-to-do-it-in-15-minutes-1423"
-  },
-  {
-    "id": "article_848",
-    "category": "tech",
-    "title": "How I Ran a Live Production Upgrade in 24 Minutes Without Taking the Site Down",
-    "summary": "How I Ran a Live Production Upgrade in 24 Minutes Without Taking the Site Down. I upgraded Shipstry's production data model for comments and payments, backfilled historical orders, and kept public routes readable by freezing writes instead of taking the site fully offline. This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T12:42:50.066820",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1602763288580-927cfda37a72%3Fq%3D80%26w%3D2072%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
-    "sourceUrl": "https://dev.to/rokcso/how-i-ran-a-live-production-upgrade-in-24-minutes-without-taking-the-site-down-4hcn"
   },
   {
     "id": "article_813",
@@ -1056,17 +1199,6 @@
     "sourceUrl": "https://dev.to/anikalp1/from-smart-chips-to-ai-teaching-grants-eu-act-risk-mcu-compression-and-brain-tumor-equity-22m7"
   },
   {
-    "id": "article_832",
-    "category": "tech",
-    "title": "1. Beyond the chatbot: Engineering the agentic enterprise",
-    "summary": "1. Beyond the chatbot: Engineering the agentic enterprise. Beyond the chatbot: Engineering the agentic enterprise Why It Matters The rise of... This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T12:42:49.880849",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1761223976379-04c361d3068a%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DM3w4ODA5NTh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYyMjQ4ODd8%26ixlib%3Drb-4.1.0%26q%3D80%26w%3D1080",
-    "sourceUrl": "https://dev.to/clydecorreya/1-beyond-the-chatbot-engineering-the-agentic-enterprise-5ejp"
-  },
-  {
     "id": "article_833",
     "category": "tech",
     "title": "\u7576\u6a5f\u5668\u5b78\u975c\u5fc3\uff0c\u4eba\u985e\u627e\u56de\u4ec0\u9ebc\uff1f\u2014\u2014AI \u6642\u4ee3\u7684\u8eab\u5fc3\u9748\u65b0\u5730\u5716",
@@ -1076,17 +1208,6 @@
     "time": "2026-04-15T12:42:49.881302",
     "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_c675a7d567b3_ai.jpg",
     "sourceUrl": "https://dev.to/yanggf8/dang-ji-qi-xue-jing-xin-ren-lei-zhao-hui-shi-mo-ai-shi-dai-de-shen-xin-ling-xin-di-tu-5b7"
-  },
-  {
-    "id": "article_834",
-    "category": "tech",
-    "title": "AI in Tech: Benchmarks, Hype, and the Real Future of Developers",
-    "summary": "AI in Tech: Benchmarks, Hype, and the Real Future of Developers. A deep dive into where AI actually stands in the tech industry today, what the benchmarks tell us, and whether developers should be worried or excited. This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Dev.to",
-    "sourceType": "tech",
-    "time": "2026-04-15T12:42:49.911735",
-    "imageUrl": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgafie7xqv82u7y7nrl49.png",
-    "sourceUrl": "https://dev.to/techifive/ai-in-tech-benchmarks-hype-and-the-real-future-of-developers-m1f"
   },
   {
     "id": "article_792",
@@ -2077,126 +2198,5 @@
     "time": "2026-04-15T12:42:46.552920",
     "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_0668669c8e9d_holland-knight-health-dose-april-14-2026-holland.jpg",
     "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPalV2cFh1Sms0a2JNcy0xZERiTUdvR1dBY2ZDX3VmVV9vY3h1ZVBkOHhjNjhWWi1Wbks1OXBleU1aRXJtVzFwcjd5UDkyb2l6Y2NTbjZNQzlGUVJfVU02VG0xcnRFd1pGUnU2R29DUnItdXJCVThmdVZJNWJBSkE1UFVZd0VGSGNkN3hnODVUQ2gxWm1vYm13NnBkMA?oc=5"
-  },
-  {
-    "id": "article_697",
-    "category": "tech",
-    "title": "$61.2M in NIH funding advances UH health research in FY2025 - University of Hawaii System",
-    "summary": "$61.2M in NIH funding advances UH health research in FY2025 - University of Hawaii System. $61.2M in NIH funding advances UH health research in FY2025 - University of Hawaii System This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Google News Health",
-    "sourceType": "social",
-    "time": "2026-04-15T12:42:46.553570",
-    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_0bdee447a447_61-2m-in-nih-funding-advances-uh-health-research.jpg",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuelpfNndNYm1FLWRLUEF3c0ZpcjFscFVmTXNOMkwzU3Z0VXVRY1k5dE9MVXpQQ1h5YkFua0VWNG9vQU5HZkJzTjB1NnlzWjhEZWpBdm43VTd0VUkxVzJaSEVZdzRzRWRiMDhVSW9iRUFsRW1lN2s4dkszNUtTZ3c?oc=5"
-  },
-  {
-    "id": "article_698",
-    "category": "trending",
-    "title": "QPS Missouri expands clinical research to patients in Springfield - Springfield News-Leader",
-    "summary": "QPS Missouri expands clinical research to patients in Springfield - Springfield News-Leader. QPS Missouri expands clinical research to patients in Springfield - Springfield News-Leader This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Google News Health",
-    "sourceType": "social",
-    "time": "2026-04-15T12:42:46.572781",
-    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_9cf7a2543c73_qps-missouri-expands-clinical-research-to-patien.jpg",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWtvcjI1ZWNId2hCZ1NaRjVjODFFSm82MHBvanRxRnB0TkxaT1RUX0p6cE51U3BpeUk4MTVPbGNBTFdJaFJlS19IV2cwUEZYUmMtcHYyOTU3ZGhyLWVQUmdlLWJ6Wmx3aHNydzd4OE9rb1RmWHM3TnRNblhWRV9NLXRnR3NsWDRXMkxUVVVITlJzWVhxMXNXdkszUjV4ZUdZNkt5cUtYaDlUYTJ0bmtWa3VMMTl6ZHlOSWlwMA?oc=5"
-  },
-  {
-    "id": "article_699",
-    "category": "campus_youth",
-    "title": "Health Sciences Symposium celebrates student research - Campbell University News",
-    "summary": "Health Sciences Symposium celebrates student research - Campbell University News. Health Sciences Symposium celebrates student research - Campbell University News This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Google News Health",
-    "sourceType": "social",
-    "time": "2026-04-15T12:42:46.574342",
-    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_72070a1b4f74_health-sciences-symposium-celebrates-student-res.jpg",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ3RfRlFRakhlLTZzM1JkQ2dRcjRBcDNfbXowalZmZlJSUl9BLUFuMlFBR3FvVHNONDQ0NkQ3ZE1lZk0yTlJjeUZadDY5dTNwNDE5ZEJjaTgtR2xjMGpXb2ViNDFmY20yZk53bjVtSGNJS1Z0N2JPeW9VRGZscXZJanItR3Q4VXlfd0N1dTZ4UUNreFE?oc=5"
-  },
-  {
-    "id": "article_700",
-    "category": "trending",
-    "title": "Is there still a gender gap in medical research? - NCPR: North Country Public Radio",
-    "summary": "Is there still a gender gap in medical research? - NCPR: North Country Public Radio. Is there still a gender gap in medical research? - NCPR: North Country Public Radio This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Google News Health",
-    "sourceType": "social",
-    "time": "2026-04-15T12:42:46.594492",
-    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_a18b396d61c7_is-there-still-a-gender-gap-in-medical-research-.jpg",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWElKY3V5aFk1LU5JZ242MnctNGJIRC16a1RSdmg5emJiLWlHUU15WXRFbmgwUnctc3RHMFhHaDBkX0pUQkV2a1A4Y3dsaDhkTzRSN19EZHZYWGN0YUMzTDVyMjVTcTJpM2lTdmJiajJSSkNHdVZjb3JSbi1FQmZ1Tm1uNFVZdkNhWmVRMFJiT2pESUN6S05RMkZzVmlRT0k5X05TR3FqVy1fM2pLMFl3?oc=5"
-  },
-  {
-    "id": "article_703",
-    "category": "trending",
-    "title": "Memorial Health NICU participates in feeding tube clinical trial for premature infants - WTOC",
-    "summary": "Memorial Health NICU participates in feeding tube clinical trial for premature infants - WTOC. Memorial Health NICU participates in feeding tube clinical trial for premature infants - WTOC This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Google News Health",
-    "sourceType": "social",
-    "time": "2026-04-15T12:42:46.610337",
-    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_7bbd62d59c51_memorial-health-nicu-participates-in-feeding-tub.jpg",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZkFqSWxRTl82UldvR2YzX3d0RFE4aHFyeVNRc1VIUUlBTVdncXRFMUJUV21LZzhON1NEMjRXSm9MOHFWNHhpUlUxejFNdU1FV0pveU5XWEFOZ3UtWWp3Nm1mUjNrZ0pBQTI1cU52a2hJN0VuNFlma29FanljQ1NkSkNTTENCMXJnV19aSFdkbmZlMVRibmUzc053dmdUQTVRT0p4MlNyUUdJTGQwQVNRNkJR0gHGAUFVX3lxTE9PQi1TZVlLbnlMd1FSb0RZbFNEUS1aSnQydlROMlpCV2VLNE1ETjREZUZiTUhfVEtfQ21QUTRTQlUycC1SalIweWYwV3l5N1VvczZJN2t0MHRtTmpPZ3NNVGdnN1YzM2VMZ2piTjRpWTJTMF9qalMzTUtfQVM4OEJiNmJoMTk3WU5DYy1WS3ZfUHNCZnJSS2ZZOTZldm1FWVZoMVg5Y0YxWWR2c3dtNXg5VVY3OEtjYjhyVWVPc09Mb09YaENJZw?oc=5"
-  },
-  {
-    "id": "article_705",
-    "category": "tech",
-    "title": "Seton Hall Students Gain Insight at Sports Medicine Conference - Seton Hall",
-    "summary": "Seton Hall Students Gain Insight at Sports Medicine Conference - Seton Hall. Seton Hall Students Gain Insight at Sports Medicine Conference - Seton Hall This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Google News Health",
-    "sourceType": "social",
-    "time": "2026-04-15T12:42:46.624398",
-    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_88b06d44f1ae_seton-hall-students-gain-insight-at-sports-medic.jpg",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcURJNDRQN1FnZ3FEdHZ2MjFSQ0paU1FlaUtmeVBPQjZYa2w5SlppWlVhUzAzRzdHNzRydWNENjRiNGxkV2pkOURJWmFuMm1lTTJ6eGxyLXFzdEdqc3h3aEpLRWszNnphT1d5TFVFU25KRWRxNzZyb2Z5SEw5RG1hSUFfa1V0cl9MV0pWZXRiNXZDZ2ViWDNXSQ?oc=5"
-  },
-  {
-    "id": "article_707",
-    "category": "trending",
-    "title": "Good News for Medical Research in Virginia - baconsrebellion.com",
-    "summary": "Good News for Medical Research in Virginia - baconsrebellion.com. Good News for Medical Research in Virginia - baconsrebellion.com This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Google News Health",
-    "sourceType": "social",
-    "time": "2026-04-15T12:42:46.647142",
-    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_f1232df89a2c_good-news-for-medical-research-in-virginia-bacon.jpg",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1c5UllZZ25wNlBSV1JMU0xwZng4Nnh5VWU3V2tqcWg2QnVjU3R0X2pFMnJ1dm1yNU5wRGVNelF3UHF0T2RjN0pFTHp5ZERoVER5eEY2QzdNUC1XVURVcXIySlVXVlU1YkVwSEs5d1hVMWVOczZaNnpHUVoxNURWag?oc=5"
-  },
-  {
-    "id": "article_709",
-    "category": "trending",
-    "title": "Hard on the Arteries - Health Sciences | University of Pittsburgh",
-    "summary": "Hard on the Arteries - Health Sciences | University of Pittsburgh. Hard on the Arteries - Health Sciences | University of Pittsburgh This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Google News Health",
-    "sourceType": "social",
-    "time": "2026-04-15T12:42:46.668365",
-    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_6ea1bf5c87ea_hard-on-the-arteries-health-sciences-university-.jpg",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeE02TXZzWFNiemFJWGVObVY5R0Z4NkFDcFpFeUdfTlcxbmxTa3NJbDMwa1A1SHRvd2FJRTdna2VJd01KMnBzWmRPWURUOVIwRm42UmFBYWdpMVIyN0ZNak1lSEZrVm9pcXlYLW1vbXAwZVlpTWtkZ3hoR3ZvWVJfQ1ktWURJSUhjOFpUUEN6LTcxQ2t1ajR1XzNrRmc0TWtUcEVHRXBGcVhDVlBYQVJmcXdkek0?oc=5"
-  },
-  {
-    "id": "article_710",
-    "category": "trending",
-    "title": "Medical College of Wisconsin names Shekar Kurpad as new CEO in July - Milwaukee Journal Sentinel",
-    "summary": "Medical College of Wisconsin names Shekar Kurpad as new CEO in July - Milwaukee Journal Sentinel. Medical College of Wisconsin names Shekar Kurpad as new CEO in July - Milwaukee Journal Sentinel This story matters in the trending lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Google News Health",
-    "sourceType": "social",
-    "time": "2026-04-15T12:42:46.687958",
-    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_f9352cdb5386_medical-college-of-wisconsin-names-shekar-kurpad.jpg",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSWROZF84OG9OX2Q1N2hidXJWcUhiZlphQXBMUFlZWndySXhrN1FfWS1fWGk0UGpIek0tRUpRUXhvZVRqd3ozM0piUmg1T05xdk1ncjg5dzV5cFFtQWRvOEdOR2h2Xy1qc2RIRmY1MzlGUndMcFIxMGQ1VmJEbXN4OEw1NXp1QncyT1ZVcGNlZ25zVXlwQlRoY05mckJEb2ZwMWVQQWI1VHJFVkk1VDFFclZaQTJqSVFPMHZ0UzRabDJzVEJZSHYyQ19qaVF0QmlWLUNfLW5ZNkZ4X1FPRi1vR0R5dw?oc=5"
-  },
-  {
-    "id": "article_711",
-    "category": "tech",
-    "title": "UNC SHIRE platform accelerates AI-powered medical research - The Business Journals",
-    "summary": "UNC SHIRE platform accelerates AI-powered medical research - The Business Journals. UNC SHIRE platform accelerates AI-powered medical research - The Business Journals This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Google News Health",
-    "sourceType": "social",
-    "time": "2026-04-15T12:42:46.688717",
-    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_e77855eef307_unc-shire-platform-accelerates-ai-powered-medica.jpg",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXJfeHh0enNpc0p0T3JfaTBSUnRfWlQ4SmhRYVBRVTdNeW9XOGMydzFlMFF1eGNlalA4cURrbW0tamxJX3M1MjdoWHZZRS1NdUdmR1hhLXVEMDd1MGtKc09CYzQ0a29xX3pibld2NHFyRE5LVUdvdmRPMXFMNl91UjlHWE5FcVVQQ2xQUlFGTEI1YUloLUc0anVXTXBEd0Y1bFR1ZEoxSHEtUQ?oc=5"
-  },
-  {
-    "id": "article_646",
-    "category": "tech",
-    "title": "From LLMs to hallucinations, here\u2019s a simple guide to common AI terms - TechCrunch",
-    "summary": "From LLMs to hallucinations, here\u2019s a simple guide to common AI terms - TechCrunch. From LLMs to hallucinations, here\u2019s a simple guide to common AI terms - TechCrunch This story matters in the tech lane and is worth a quick follow-up from primary sources.",
-    "sourceName": "Google News Tech",
-    "sourceType": "social",
-    "time": "2026-04-15T12:42:45.451417",
-    "imageUrl": "https://raw.githubusercontent.com/AdvaithBiju/Advaith_Biju.github.io/master/generated_images/ai_fa0ecf9584dd_from-llms-to-hallucinations-here-s-a-simple-guid.jpg",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2tFa2ZVdEpGOUxCU0dlbi1tSEJsVTJyTEhOLXgxZWhIRUVVZzhVWm9VV3pSSlV0aWNUMV94cERVNWU2aTZ1cUFmUEpZRW8xczFBV1lkdmMxQmJzeEFfNWtwUWM5WjN2UVZTR0RyQndTc3RJbV9Ec25ObXlfcF9FNmlUMlBjYk50b3VIcEZZenJzcVBlWDVEYjV3eUs2WTRiaWRnRTFMcVBmc1pSX09pcENldzFmYVF5aXc?oc=5"
   }
 ]
