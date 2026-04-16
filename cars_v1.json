@@ -1,5 +1,16 @@
 [
   {
+    "id": "article_10",
+    "category": "important_news",
+    "title": "'A succulent Chinese meal' - iconic Australian quote immortalised in national archive",
+    "summary": "Jack Karlsons iconic 1991 arrest rant at a Brisbane Chinese restaurant just got officially preserved by Australias National Film and Sound Archive. The guy dramatically resisted cops while shouting A succulent Chinese meal? and Gentlemen, this is democracy manifest\u2014lines that became legendary",
+    "sourceName": "BBC News",
+    "sourceType": "news",
+    "time": "2026-04-01T10:13:11.816850",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7ec5/live/8fa350f0-5559-11ef-aecb-49b8ad5d78f7.png",
+    "sourceUrl": "https://www.bbc.com/news/articles/c3exvk1207ko"
+  },
+  {
     "id": "article_7",
     "category": "trending",
     "title": "Lindsey Graham Viciously Mocked for Posting Gun Photo After Disney World Photos Go Viral",
