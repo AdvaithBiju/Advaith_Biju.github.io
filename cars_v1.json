@@ -1,1 +1,179 @@
+[
+  {
+    "id": "item_1",
+    "category": "tech",
+    "title": "Meta Is Building an AI Version of Zuckerberg to Manage Employees",
+    "summary": "Meta is reportedly training an AI model on Mark Zuckerberg's exact mannerisms and public statements to interact with employees on his behalf. People are calling it the most dystopian corporate move of 2026.",
+    "sourceName": "Medium / Weekly Tech Talk",
+    "sourceType": "article",
+    "time": "1d ago",
+    "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "sourceUrl": "https://medium.com/@abhishekmonpara198/weekly-tech-talk-april-20th-2026-breaking-down-the-latest-in-tech-3298360afd12"
+  },
+  {
+    "id": "item_2",
+    "category": "tech",
+    "title": "80,000 Tech Workers Already Laid Off in 2026 — AI Is Being Blamed",
+    "summary": "Nearly 80K tech jobs have vanished in 2026 alone, with companies like Snap cutting 16% of their workforce and directly citing AI as the reason. Is this just the beginning?",
+    "sourceName": "TechRadar",
+    "sourceType": "article",
+    "time": "3d ago",
+    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "sourceUrl": "https://www.techradar.com/news/archive"
+  },
+  {
+    "id": "item_3",
+    "category": "tech",
+    "title": "OpenAI Staff Rejected an 'Insane' Plan to Pit World Governments Against Each Other",
+    "summary": "Former OpenAI staffers went public alleging leadership proposed a geopolitical scheme to play governments off each other for profit. The same week, Sam Altman survived a Molotov cocktail attack on his home.",
+    "sourceName": "Medium / Weekly Tech Talk",
+    "sourceType": "article",
+    "time": "1d ago",
+    "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "sourceUrl": "https://medium.com/@abhishekmonpara198/weekly-tech-talk-april-20th-2026-breaking-down-the-latest-in-tech-3298360afd12"
+  },
+  {
+    "id": "item_4",
+    "category": "tech",
+    "title": "France Is Ditching Windows for Linux to Break Free From US Tech",
+    "summary": "France announced it will migrate government systems from Windows to Linux to reduce dependency on American tech companies. Is this the start of a global 'tech independence' movement?",
+    "sourceName": "TechRadar",
+    "sourceType": "article",
+    "time": "4d ago",
+    "imageUrl": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?w=800&q=80",
+    "sourceUrl": "https://www.techradar.com/news/archive"
+  },
+  {
+    "id": "item_5",
+    "category": "trending",
+    "title": "Greece Bans Kids Under 15 From Instagram, TikTok & Facebook",
+    "summary": "Greece just joined France, Portugal, and Australia in banning minors from social media. The push comes after years of deadly viral challenges harming children. Is this actually going to work?",
+    "sourceName": "Politis",
+    "sourceType": "article",
+    "time": "5d ago",
+    "imageUrl": "https://images.unsplash.com/photo-1611262588024-d12430b98920?w=800&q=80",
+    "sourceUrl": "https://en.politis.com.cy/social-lens/998685/the-viral-challenges-that-made-social-media-bans-inevitable"
+  },
+  {
+    "id": "item_6",
+    "category": "trending",
+    "title": "Perplexity AI Is Being Sued for Sharing Your Conversations With Meta & Google",
+    "summary": "A new lawsuit claims Perplexity AI has been quietly handing user conversations over to Meta and Google. People trusted it as a private search alternative — now they're questioning everything.",
+    "sourceName": "Brandwatch Community",
+    "sourceType": "article",
+    "time": "2w ago",
+    "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80",
+    "sourceUrl": "https://community.brandwatch.com/social-media-management-60/social-media-updates-2026-april-6-10-909"
+  },
+  {
+    "id": "item_7",
+    "category": "trending",
+    "title": "Only 49% of UK Adults Now Post Publicly on Social Media — Down From 61%",
+    "summary": "A new Ofcom report shows people are massively pulling back from public posting. Gen Z is going private, group chats are winning, and the era of putting everything online might actually be dying.",
+    "sourceName": "Ofcom / Brandwatch",
+    "sourceType": "article",
+    "time": "2w ago",
+    "imageUrl": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800&q=80",
+    "sourceUrl": "https://community.brandwatch.com/social-media-management-60/social-media-updates-2026-april-6-10-909"
+  },
+  {
+    "id": "item_8",
+    "category": "trending",
+    "title": "MySpace Is Making a Comeback — And It's Millennials Who Are Bringing It Back",
+    "summary": "2026 nostalgia fever is real. Millennials are reviving MySpace while TikTok is flooded with '2026 is the new 2016' throwback content. Over 37 million Instagram posts are already using the #2016 hashtag.",
+    "sourceName": "Good Morning America",
+    "sourceType": "social",
+    "time": "3mo ago",
+    "imageUrl": "https://images.unsplash.com/photo-1516110833967-0b5716ca1387?w=800&q=80",
+    "sourceUrl": "https://www.goodmorningamerica.com/living/story/2026-2016-social-media-users-turn-back-clock-129277952"
+  },
+  {
+    "id": "item_9",
+    "category": "auto",
+    "title": "Tesla Is Charging Half What Waymo Charges for Robotaxi Rides in Dallas",
+    "summary": "Tesla's robotaxi just went live in Dallas and it's pricing Waymo rides into the ground — literally undercutting them by 50%. The self-driving war just got a price tag.",
+    "sourceName": "Electric Vehicles News",
+    "sourceType": "article",
+    "time": "1d ago",
+    "imageUrl": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?w=800&q=80",
+    "sourceUrl": "https://eletric-vehicles.com/"
+  },
+  {
+    "id": "item_10",
+    "category": "auto",
+    "title": "Ford CEO Called BYD 'The Best in the Business' and Basically Dissed Tesla",
+    "summary": "Ford's CEO Jim Farley publicly called Chinese automaker BYD the best in the world for cost, supply chain, and manufacturing — while saying Tesla doesn't even have a truly 'updated vehicle'. The beef is real.",
+    "sourceName": "Fortune",
+    "sourceType": "article",
+    "time": "1d ago",
+    "imageUrl": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800&q=80",
+    "sourceUrl": "https://fortune.com/2026/04/20/ford-ceo-jim-farley-china-byd-xiaomi-donald-trump-tariffs-automakers-gm-toyota-tesla-updated-vehicle-elon-musk/"
+  },
+  {
+    "id": "item_11",
+    "category": "auto",
+    "title": "Honda, Tesla & Hyundai Just Canceled Billions in EV Programs",
+    "summary": "Major automakers are axing nearly $70 billion in EV programs. Tariffs, weak demand, and Chinese competition are breaking the electric dream. So is the EV era already stalling out?",
+    "sourceName": "Automotive News",
+    "sourceType": "article",
+    "time": "5d ago",
+    "imageUrl": "https://images.unsplash.com/photo-1571127236794-81c0bbfe1ce3?w=800&q=80",
+    "sourceUrl": "https://www.autonews.com/car-concepts/an-ev-cancellations-delays-2026-0313/"
+  },
+  {
+    "id": "item_12",
+    "category": "auto",
+    "title": "Supreme Court Rules Trump's Car Tariffs Unconstitutional — $20B Refund Coming",
+    "summary": "The Supreme Court struck down Trump's auto tariffs under IEEPA as unconstitutional. Starting April 20, the US government begins refunding up to $20 billion. Car prices may finally drop — but don't hold your breath.",
+    "sourceName": "Digital Dealer",
+    "sourceType": "article",
+    "time": "5d ago",
+    "imageUrl": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800&q=80",
+    "sourceUrl": "https://digitaldealer.com/news/us-tariff-tracker-impact-automaker-response/164521/"
+  },
+  {
+    "id": "item_13",
+    "category": "sports",
+    "title": "LaMelo Ball Tripped Bam Adebayo on Live TV and Got Away With It",
+    "summary": "LaMelo deliberately grabbed Bam Adebayo's leg mid-game, injuring the Heat All-Star, and the NBA only handed him a $35K fine. No suspension. Coaches and fans are furious — was the league too soft?",
+    "sourceName": "Yahoo Sports",
+    "sourceType": "article",
+    "time": "6d ago",
+    "imageUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=800&q=80",
+    "sourceUrl": "https://sports.yahoo.com/nba/article/nba-playoffs-2026-lamelo-ball-avoids-suspension-fined-35k-for-trip-of-bam-adebayo-and-25k-for-profane-interview-015547772.html"
+  },
+  {
+    "id": "item_14",
+    "category": "sports",
+    "title": "NBA Banned Local Announcers From Playoffs and Fans Are Absolutely Losing It",
+    "summary": "For the first time ever, NBA playoff games are exclusively on national broadcasts. No local announcers, no regional coverage. Legendary Mike Breen called it 'a poor decision' on air. The backlash is massive.",
+    "sourceName": "AOL / Athlon Sports",
+    "sourceType": "article",
+    "time": "1w ago",
+    "imageUrl": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=800&q=80",
+    "sourceUrl": "https://www.aol.com/articles/nba-playoffs-tv-deal-brings-160513734.html"
+  },
+  {
+    "id": "item_15",
+    "category": "sports",
+    "title": "#8 Seed Orlando Magic Just Shocked the 60-Win Detroit Pistons in Game 1",
+    "summary": "The Magic came into the playoffs as walking drama — injuries, bickering, a team that allegedly quit on their coach. Then they went into Detroit and won Game 1. One of the wildest upsets of the early playoffs.",
+    "sourceName": "The Ringer",
+    "sourceType": "article",
+    "time": "1d ago",
+    "imageUrl": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=800&q=80",
+    "sourceUrl": "https://www.theringer.com/2026/04/20/nba/nba-playoffs-first-round-takeaways-game-1"
+  },
+  {
+    "id": "item_16",
+    "category": "sports",
+    "title": "Olympic Ski Jumpers Were Allegedly Injecting Their Crotches to Cheat — And the IOC Knew",
+    "summary": "At the 2026 Milan Winter Olympics, rumors spread that ski jumpers were injecting their bodies with filler to game suit regulations and gain aerodynamic lift. WADA opened an investigation. It's as wild as it sounds.",
+    "sourceName": "Yahoo Sports",
+    "sourceType": "article",
+    "time": "2mo ago",
+    "imageUrl": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&q=80",
+    "sourceUrl": "https://sports.yahoo.com/olympics/article/crotch-gate-the-biggest-controversy-heading-into-the-winter-olympics-involves--ski-jumping-003557536.html"
+  }
+]
 
